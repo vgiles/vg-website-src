@@ -21,6 +21,16 @@ _– Shaun Barlow, flutetutor.com.au_
 
 I am one of the Artistic Directors for the [Tilde New Music Festival][2], a biennial festival and academy that provides a platform for experimentation and collaboration in an informal, public setting. I am an Academic Lecturer at the Australian Institute of Music, am represented by the Australian Music Centre, my scores are published by [Wirripang][3] for whom I am also on the peer-review panel. I have studied with a bunch of people, but would prefer not to list them here. Outside music, I enjoy cooking and blogging about vegan food, drinking coffee and craft beer (not at the same time), pretending to garden, reading, and being a part-time recluse.
 
+#### Short Bio (~250 words, third person)
+
+Born in 1985, Vincent Giles is a composer; a tinkerer with acoustic and electronic sound in the context of concert music, electronic music, installation, and performance. His works are influenced by the natural world, science and mathematics, and self-imposed compositional limitations, and he sees music as a type of manifestation of already-existent natural phenomena and relationships, similar to how mathematics is often a notational form of those same relationships. Reflecting his fascination with things like particles, galaxies, atoms, chemicals, biological systems, and so on, his work often employs what he called _polyphony of form_, meaning that in a work there are often multiple structural forms superimposed, counterpointed against one another, interacting in tumultuous ways.
+
+He is one of two Artistic Directors for the Tilde New Music Festival, a yearly festival and academy that provides a platform for experimentation and collaboration in new music, teaches composition at the Australian Institute of Music, is represented by the Australian Music Centre, and is published by – and on the review panel for – Wirripang. Vincent has studied with a heap of composers and performers over the years, but would prefer not to mention them here. Outside music, he enjoys cooking and blogging about vegan food, drinking coffee and craft beer (not at the same time), pretending to garden, reading, and being a part-time recluse.
+
+#### Shortest Version (~100 words, third person)
+
+Vincent Giles is a composer; a tinkerer with acoustic and electronic sound in the context of concert music, electronic music, installation, and performance. His work is strongly influenced by the natural world, science, and mathematics, and he enjoys compositional restraints as a mode of creativity. Vincent's works are often structurally complex, employing what he calls _polyphony of form_ meaning that many superimposed forms interact polyphonically, reflecting the complexity of the universe we live in. Vincent is an artistic director of Tilde New Music Festival, teaches composition at the Australian Institute of Music, is represented by the Australian Music Centre, and is on the review panel for Wirripang. He enjoys cooking vegan food, drinking coffee, and being a recluse.
+
 [1]: https://vincentgiles.bandcamp.com/album/post-hoc-ergo-propter-hoc
 [2]: http://www.tilde.net.au
 [3]: http://www.wirripang.com.au
