@@ -5,10 +5,10 @@ type: "new"
 layout: "single"
 ---
 
-<!--### For _Now_: Manifesto 1.1
+### For _Now_: Manifesto 1.1
 First published in [ADSRZine][1] (April 2019).
 Follow the link to view the original, which includes some context and much better formatting, with referencing.
--->
+
 #### Artist Statement
 I believe that an artist should reject the ego and the self as part of the making process (and in life), so as to not let them interfere by imposing concepts such as taste or style upon the work. An artist should reject sentimentality, catharsis, and other ‘expressive’ reasons for making, and by doing so, focus on relating art to non-subjective reality and to the every-day; the banal. I believe in taking the entire spectrum of sound, audible and inaudible, as the basis of music and that music is organised sound. In this I agree with Varèse, Cage, and others, and want sound to be itself, organised by a human, or not. In this making, one should be experimental, always, and document one’s work as much as is practical. An artist’s work is created for the medium, and transcription from one medium to another is not the business of the artist; make something for the other medium that is new to you instead. In this endeavour one must find something to devote oneself to and do it. One must make for the sake of making and find something to do. Reject ignorance and be informed, of the field and of the world.
 
