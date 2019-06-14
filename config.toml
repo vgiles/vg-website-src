@@ -5,11 +5,11 @@ theme = "minimal"
 
 [params]
     author = "Vincent Giles"
-    description = "Composer : Performer : Scholar"
+    description = "Composer : Performer : Scholar : (site under renovation)"
     githubUsername = "vgiles"
-    accent = "black"
+    accent = "grey"
     showBorder = true
-    backgroundColor = "cream"
+    backgroundColor = "#f2f2f2"
     font = "Fira Sans" # should match the name on Google Fonts!
     highlight = true
     highlightStyle = "solarized-dark"
@@ -27,7 +27,7 @@ theme = "minimal"
 
 [[menu.main]]
     url = "/statement/"
-    name = "Statement & Manifesto"
+    name = "Statement"
     weight = 3
 
 [[menu.main]]
@@ -41,9 +41,14 @@ theme = "minimal"
     weight = 5
 
 [[menu.main]]
+    url = "/research/"
+    name = "Research"
+    weight = 6
+
+[[menu.main]]
     url = "/teaching/"
     name = "Teaching"
-    weight = 6
+    weight = 7
 
 # Social icons to be shown on the right-hand side of the navigation bar
 # The "name" field should match the name of the icon to be used
@@ -59,4 +64,17 @@ theme = "minimal"
     name = "github"
     weight = 2
 
+[[menu.icon]]
+    url = "https://soundcloud.com/vince-giles"
+    name = "soundcloud"
+    weight = 3
 
+[[menu.icon]]
+    url = "https://vincentgiles.bandcamp.com"
+    name = "bandcamp"
+    weight = 4
+
+[[menu.icon]]
+    url = "https://www.instagram.com/composervince"
+    name = "instagram"
+    weight = 5
