@@ -37,8 +37,8 @@ He is one of two Artistic Directors for the Tilde New Music Festival, a yearly f
 
 Vincent Giles is a composer; a tinkerer with acoustic and electronic sound in the context of concert music, electronic music, installation, and performance. His work is strongly influenced by the natural world, science, and mathematics, and his music is best characterised as experimental, being built on emergent properties. He utilises traditional notation, graphics, computers, interactivity, custom instruments, and is currently interested in machine learning and other forms of artificial intelligence as part of a computer-assisted compositional practice. Vincent’s works are often structurally complex, employing what he calls _polyphony of form_, an emergent property of superimposed musical forms interacting in time. Together with sound artist [Alice Bennett](http://www.alicebennett.net), Vincent founded and co-directs [Tilde New Music and Sound Art Inc.](https://www.tilde.net.au), presenting a biennial festival and new music academy. He enjoys cooking vegan food, drinking coffee, and being a recluse.
 
-![Vincent Giles Image](vg_yenice.png)
-Photo by Josh Yenice (~6.8mb PNG)
+![Vincent Giles Image](vg_yenice_small.png)
+Photo by Josh Yenice (~6.8mb PNG) [Download High Resolution](vg_yenice.png)
 
 [1]: https://vincentgiles.bandcamp.com/album/post-hoc-ergo-propter-hoc
 [2]: http://www.tilde.net.au
