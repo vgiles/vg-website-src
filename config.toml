@@ -1,4 +1,4 @@
-baseURL = "http://vgiles.net"
+baseURL = "/"
 languageCode = "en-us"
 title = "Vincent Giles"
 theme = "minimal"
