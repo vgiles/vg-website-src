@@ -4,6 +4,10 @@ date: 2019-06-06
 type: "new"
 layout: "single"
 ---
+<div style="text-align: center;">
+<iframe width="280" height="157.5" src="https://www.youtube.com/embed/j6LbX4E-EHo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br />
+Vincent Giles - <i>vgst1</i> (2019)</div><br />
+
 I was born in the green and leafy outer-eastern suburbs of Melbourne in 1985, and spent my early years in the middle of alpine forest in north-east Victoria. Now I spend my time as a composer: a tinkerer with acoustic and electronic sound in the context of concert music, electronic music, installation, and performance. Whatever form my work takes, it is usually influenced by the natural world, science and mathematics, and self-imposed compositional limitations; I see music as a type of perception and manifestation of already-existent natural phenomena and relationships, in the same way that mathematics is a notation of natural relationships and so attempt to express the most elegant form of the observed relationships. Prior to studying composition I was a bass player who grew disgruntled with the culturally-defined stylistic limitations of the instrument, and, having worked primarily in jazz and popular musics, the adherence to traditional notions of pitch, rhythm, and form that result in severe aesthetic and creative limitations – not the desirable kind!
 
 _"Vincent Giles' new piece, IMPULSE gave a new 21st century voice to field recordings, mostly gathered from his recent trip to Europe, flourishing and melding in a unsettled but vibrant electroacoustic language."_  
@@ -30,6 +34,8 @@ He is one of two Artistic Directors for the Tilde New Music Festival, a yearly f
 #### Shortest Version (~100 words, third person)
 
 Vincent Giles is a composer; a tinkerer with acoustic and electronic sound in the context of concert music, electronic music, installation, and performance. His work is strongly influenced by the natural world, science, and mathematics, and he enjoys compositional restraints as a mode of creativity. Vincent's works are often structurally complex, employing what he calls _polyphony of form_ meaning that many superimposed forms interact polyphonically, reflecting the complexity of the universe we live in. Vincent is an artistic director of Tilde New Music Festival, teaches composition at the Australian Institute of Music, is represented by the Australian Music Centre, and is on the review panel for Wirripang. He enjoys cooking vegan food, drinking coffee, and being a recluse.
+
+![Vincent Giles Image](vg_yenice.png)
 
 [1]: https://vincentgiles.bandcamp.com/album/post-hoc-ergo-propter-hoc
 [2]: http://www.tilde.net.au
