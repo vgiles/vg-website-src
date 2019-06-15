@@ -32,7 +32,7 @@ theme = "minimal"
 
 [[menu.main]]
     url = "/cds/"
-    name = "CDs"
+    name = "Releases"
     weight = 4
 
 [[menu.main]]
