@@ -1,4 +1,4 @@
-baseURL = "http://vgiles-net-deployment.onrender.com"
+baseURL = "http://vgiles.net"
 languageCode = "en-us"
 title = "Vincent Giles"
 theme = "minimal"
