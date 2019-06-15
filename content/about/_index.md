@@ -6,12 +6,11 @@ layout: "single"
 ---
 <div style="text-align: center;">
 <iframe width="280" height="157.5" src="https://www.youtube.com/embed/j6LbX4E-EHo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br />
-Vincent Giles - <i>vgst1</i> (2019)<br />
+Vincent Giles - <i>vgst1</i> (2019)<br /></div><br/>
 
-[View recent academic CV (updated 15/6/2019)](VG_CV.pdf)<br /></div>
-<!--
+[View recent academic CV (updated 15/6/2019)](VG_CV.pdf)<br />
 
-I was born in the green and leafy outer-eastern suburbs of Melbourne in 1985, and spent my early years in the middle of alpine forest in north-east Victoria. Now I spend my time as a composer: a tinkerer with acoustic and electronic sound in the context of concert music, electronic music, installation, and performance. Whatever form my work takes, it is usually influenced by the natural world, science and mathematics, and self-imposed compositional limitations; I see music as a type of perception and manifestation of already-existent natural phenomena and relationships, in the same way that mathematics is a notation of natural relationships and so attempt to express the most elegant form of the observed relationships. Prior to studying composition I was a bass player who grew disgruntled with the culturally-defined stylistic limitations of the instrument, and, having worked primarily in jazz and popular musics, the adherence to traditional notions of pitch, rhythm, and form that result in severe aesthetic and creative limitations – not the desirable kind!
+<!--I was born in the green and leafy outer-eastern suburbs of Melbourne in 1985, and spent my early years in the middle of alpine forest in north-east Victoria. Now I spend my time as a composer: a tinkerer with acoustic and electronic sound in the context of concert music, electronic music, installation, and performance. Whatever form my work takes, it is usually influenced by the natural world, science and mathematics, and self-imposed compositional limitations; I see music as a type of perception and manifestation of already-existent natural phenomena and relationships, in the same way that mathematics is a notation of natural relationships and so attempt to express the most elegant form of the observed relationships. Prior to studying composition I was a bass player who grew disgruntled with the culturally-defined stylistic limitations of the instrument, and, having worked primarily in jazz and popular musics, the adherence to traditional notions of pitch, rhythm, and form that result in severe aesthetic and creative limitations – not the desirable kind!
 
 _"Vincent Giles' new piece, IMPULSE gave a new 21st century voice to field recordings, mostly gathered from his recent trip to Europe, flourishing and melding in a unsettled but vibrant electroacoustic language."_  
 _— Ian Parsons, PBS FM 106.7_
@@ -39,6 +38,7 @@ He is one of two Artistic Directors for the Tilde New Music Festival, a yearly f
 Vincent Giles is a composer; a tinkerer with acoustic and electronic sound in the context of concert music, electronic music, installation, and performance. His work is strongly influenced by the natural world, science, and mathematics, and his music is best characterised as experimental, being built on emergent properties. He utilises traditional notation, graphics, computers, interactivity, custom instruments, and is currently interested in machine learning and other forms of artificial intelligence as part of a computer-assisted compositional practice. Vincent’s works are often structurally complex, employing what he calls _polyphony of form_, an emergent property of superimposed musical forms interacting in time. Together with sound artist [Alice Bennett](http://www.alicebennett.net), Vincent founded and co-directs [Tilde New Music and Sound Art Inc.](https://www.tilde.net.au), presenting a biennial festival and new music academy. He enjoys cooking vegan food, drinking coffee, and being a recluse.
 
 ![Vincent Giles Image](vg_yenice.png)
+Photo by Josh Yenice (~6.8mb PNG)
 
 [1]: https://vincentgiles.bandcamp.com/album/post-hoc-ergo-propter-hoc
 [2]: http://www.tilde.net.au
