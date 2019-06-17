@@ -1,2 +1,0 @@
-<script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.6.1/p5.js"></script>
-<script src="sketch.js"></script>
