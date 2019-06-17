@@ -92,7 +92,7 @@ _The Confession of Dr Faust [2012]_. Dur: c. 7′
 #### Any combination
 
 _Vignette #1 [2018]._ Dur: any.<br/>
-[Web-based score](/vignettes/1)
+[Web-based score](https://vgiles.github.io/projects/vignettes/1/)
 
 _6:12:18 [Dream] [2014]._ Dur: any.  
 [Score][33]
