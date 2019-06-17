@@ -14,6 +14,10 @@ theme = "minimal"
     highlight = true
     highlightStyle = "solarized-dark"
     highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift"]
+    featureURL = "https://www.youtube.com/embed/j6LbX4E-EHo"  #copy embed code here -- not working, but the other parts do. To feature you need to insert the iframe embed within index.html
+    featureCMP = "Vincent Giles" #composer
+    featureTITLE = "vgst1" #title
+    featureYEAR = "2019" #year of composition
 
 [[menu.main]]
     url = "/"
