@@ -17,13 +17,14 @@ _Etude Microscopique [2010],_ solo bass flute. For Alice Bennett. Dur: c. 4'00"
 [Score][10]
 
 _a process, delicate and violent [2017]_, solo alto flute. Commissioned and for Eric Lamb. Dur: 9'00"
+[Score](https://www.australianmusiccentre.com.au/workversion/giles-vincent-process-delicate-and-violent/32979)
 
 #### Violin
 
 _silver as catalyst in organic reactions [2014-16]_, baroque violin. For Lizzy Welsh. Dur: c. 6'00"  
 Score: editing/revising for publication. Please email me.
 
-_Feeder_ [_2016-17]_, any treble instrument. Dur: any. Dedicated to [Alice Bennett][11].  
+_Feeder [2016-17]_, any treble instrument. Dur: any. Dedicated to [Alice Bennett][11].  
 [Score (Max Patch)][12] Please email me about performing this as it is not yet premiered.
 
 #### Woodwind (open)
