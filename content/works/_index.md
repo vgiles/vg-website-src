@@ -143,13 +143,6 @@ Detail coming soon…
 
 ** **
 
-[1]: http://www.vgiles.net/wp-content/uploads/2016/11/vg_works_list.pdf
-[2]: http://www.vgiles.net#solo
-[3]: http://www.vgiles.net#duo
-[4]: http://www.vgiles.net#trio
-[5]: http://www.vgiles.net#ens
-[6]: http://www.vgiles.net#open
-[7]: http://www.vgiles.net#elec
 [8]: http://wirripang.com.au/authors/vincent-giles/differing-dialogues-score
 [9]: http://www.move.com.au/disc/peter-sheridan-monologues-dialogues
 [10]: http://wirripang.com.au/authors/vincent-giles/etude-microscopique-score-1
