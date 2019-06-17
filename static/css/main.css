@@ -98,3 +98,9 @@ footer {
 img {
     max-width: 100%;
 }
+
+/*table layout*/
+table, th, td {
+padding: 12px;
+text-align: justify;
+}
