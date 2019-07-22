@@ -16,7 +16,7 @@ theme = "minimal"
     highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift"]
     featureURL = "https://www.youtube.com/embed/j6LbX4E-EHo"  #copy embed code here -- not working, but the other parts do. To feature you need to insert the iframe embed within index.html
     featureCMP = "Vincent Giles" #composer
-    featureTITLE = "vgst1" #title
+    featureTITLE = "dictaphone music [EP]" #title
     featureYEAR = "2019" #year of composition
     copyright = "&copy; 2019 Vincent Giles, all rights reserved. Powered by [Hugo](https://gohugo.io) and [Minimal](https://github.com/calintat/minimal)" 
 
