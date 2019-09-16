@@ -2,6 +2,7 @@ baseURL = "https://vgiles-net-deployment.onrender.com/"
 languageCode = "en-us"
 title = "Vincent Giles"
 theme = "minimal"
+staticDir = ["static", "static2"]
 
 [params]
     author = "Vincent Giles"
