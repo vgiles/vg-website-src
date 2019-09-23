@@ -32,7 +32,7 @@ function draw() {
     } else {
       fill(random(255) - 100);
       textSize(random(40));
-      text(words[i], wPoint + margin + 10, hPoint + textSize);
+      text(words[i], wPoint + margin + 10, hPoint + 40);
     }
   }
 }
