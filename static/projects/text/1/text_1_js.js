@@ -27,8 +27,8 @@ function renderText() {
   for (var i = 0; i < words.length; i++) {
     textSize(random(40));
     var random_times = noise(500);
-    var margin = textWidth(words[i]);
-    console.log(margin);
+    var margin = int(textWidth(words[i]));
+    console.log(words[i], margin);
     var wPoint = int(random_times*random(width));
     var hPoint = int(random_times*random(height));
     // this logic works well, but does not stop the bleeding from the edges
