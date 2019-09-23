@@ -15,8 +15,9 @@ function setup() {
 }
 
 function draw() {
-  renderText();
-  if mouseClicked()
+  if (mouseIsPressed) {
+    renderText();
+  }
 }
 
 function renderText() {
