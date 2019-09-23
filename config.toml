@@ -57,7 +57,7 @@ staticDir = ["static", "static2"]
 #     weight = 7
 
 [[menu.main]]
-    url = "/curiosities/"
+    url = "/curiosity/"
     name = "Curiosities"
     weight = 7
 
