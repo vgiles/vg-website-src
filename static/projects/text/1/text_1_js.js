@@ -33,12 +33,15 @@ function renderText() {
     if (wPoint >= (0 + margin) && wPoint <= (width - margin)) {
       fill(random(255) - 100);
       text(words[i], wPoint, hPoint);
-    } else if ((wPoint + margin) > (width - margin)){
+    } else if ((wPoint + margin) > (width - margin)) {
       fill(random(255) - 100);
       text(words[i], wPoint - margin, hPoint + 40);
-    } else if (wPoint <= (0 + margin)) {
+    } else if (wPoint < (0 + margin)) {
       fill(random(255) - 100);
       text(words[i], wPoint + margin + 10, hPoint + 40);
+    } else {
+      fill(random(255) - 100);
+      text(words[i], wPoint + margin, hPoint + 40);
     }
   }
 }
