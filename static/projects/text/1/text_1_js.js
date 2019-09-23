@@ -37,7 +37,7 @@ function renderText() {
       fill(random(255) - 100);
       var margin = textWidth(words[i]);
       //textSize(random(40));
-      text(words[i], wPoint - margin - 10, hPoint + 40);
+      text(words[i], wPoint - (wPoint+margin) - 10, hPoint + 40);
     } else {
       fill(random(255) - 100);
       var margin = textWidth(words[i]);
