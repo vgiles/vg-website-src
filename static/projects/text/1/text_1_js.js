@@ -26,19 +26,21 @@ function renderText() {
   var words = sourceText.split(" ");
   for (var i = 0; i < words.length; i++) {
     var random_times = noise(500);
-    var margin = textWidth(words[i]);
     var wPoint = int(random_times*random(width));
     var hPoint = int(random_times*random(height));
     textSize(random(40));
     if (wPoint >= (0 + margin) && wPoint <= (width - margin)) {
       fill(random(255) - 100);
+      var margin = textWidth(words[i]);
       text(words[i], wPoint, hPoint);
     } else if (wPoint > (width - margin)){
       fill(random(255) - 100);
+      var margin = textWidth(words[i]);
       //textSize(random(40));
       text(words[i], wPoint - margin - 10, hPoint + 40);
     } else {
       fill(random(255) - 100);
+      var margin = textWidth(words[i]);
       //textSize(random(40));
       text(words[i], wPoint + margin + 10, hPoint + 40);
     }
