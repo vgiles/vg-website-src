@@ -15,9 +15,7 @@ function setup() {
 }
 
 function draw() {
-  if (mouseIsPressed) {
-    renderText();
-  }
+  renderText();
 }
 
 function renderText() {
@@ -51,4 +49,8 @@ function keyPressed() {
   if (keyCode == 32) {
     save('text.jpg');
   }
+}
+
+function mouseClicked() {
+  renderText();
 }
