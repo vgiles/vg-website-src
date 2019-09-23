@@ -25,14 +25,14 @@ function draw() {
     var margin = textWidth(words[i]);
     var wPoint = random_times*random(width);
     var hPoint = random_times*random(height);
-    if (wPoint > (0 + margin)) {
+    if (wPoint >= (0 + margin)) {
       fill(random(255) - 100);
       textSize(random(40));
       text(words[i], wPoint, hPoint);
     } else {
       fill(random(255) - 100);
       textSize(random(40));
-      text(words[i], wPoint + margin, hPoint);
+      text(words[i], wPoint + margin + 10, hPoint);
     }
   }
 }
