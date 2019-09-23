@@ -25,11 +25,11 @@ function renderText() {
   var sourceText = loadedFile[n];
   var words = sourceText.split(" ");
   for (var i = 0; i < words.length; i++) {
+    textSize(random(40));
     var random_times = noise(500);
     var margin = textWidth(words[i]);
     var wPoint = int(random_times*random(width));
     var hPoint = int(random_times*random(height));
-    textSize(random(40));
     if (wPoint >= (0 + margin) && wPoint <= (width - margin)) {
       fill(random(255) - 100);
       text(words[i], wPoint, hPoint);
