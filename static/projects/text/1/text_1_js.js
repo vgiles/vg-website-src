@@ -30,15 +30,25 @@ function renderText() {
     var margin = textWidth(words[i]);
     var wPoint = int(random_times*random(width));
     var hPoint = int(random_times*random(height));
+
+    // Thinking about inverting the logic but it doesn't really make sense.
+    // if (wPoint <= (0 + margin) || wPoint >= (width - margin)) {
+    //
+    // } else {
+    //   fill(random(255) - 100);
+    //   text(words[i], wPoint, hPoint);
+    // }
+
+    // this logic works well, but does not stop the bleeding from the edges
     if (wPoint >= (0 + margin) && wPoint <= (width - margin)) {
       fill(random(255) - 100);
       text(words[i], wPoint, hPoint);
-    } else if ((wPoint + margin) > (width - margin)) {
+    } else if ((wPoint + margin) >= (width - margin)) {
       fill(random(255) - 100);
-      text(words[i], wPoint - margin, hPoint + 40);
-    } else if (wPoint < (0 + margin)) {
+      text(words[i], wPoint - margin - 40, hPoint + 40);
+    } else if (wPoint <= (0 + margin)) {
       fill(random(255) - 100);
-      text(words[i], wPoint + margin + 10, hPoint + 40);
+      text(words[i], wPoint + margin + 40, hPoint + 40);
     } else {
       fill(random(255) - 100);
       text(words[i], wPoint + margin, hPoint + 40);
