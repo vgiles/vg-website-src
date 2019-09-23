@@ -34,15 +34,15 @@ function renderText() {
     if (wPoint >= (0 + margin) && wPoint <= (width - margin)) {
       fill(random(255) - 100);
       text(words[i], wPoint + 20, hPoint + 10);
-      console.log(words[i], wPoint, margin);
+    //  console.log(words[i], wPoint, margin);
     } else if ((wPoint + margin) >= (width - margin)) {
       fill(random(255) - 100);
       text(words[i], (wPoint + margin) - margin - 10, hPoint + 10);
-      console.log(words[i], wPoint, margin);
+    //  console.log(words[i], wPoint, margin);
     } else {
       fill(random(255) - 100);
       text(words[i], margin, hPoint + 10);
-      console.log(words[i], wPoint, margin);
+    //  console.log(words[i], wPoint, margin);
     }
   }
 }
