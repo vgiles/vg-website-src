@@ -16,7 +16,7 @@ function setup() {
 
 function draw() {
   background(220);
-  textAlign(LEFT, CENTER);
+  textAlign(LEFT, TOP);
   var n = int(random(loadedFile.length - 1));
   var sourceText = loadedFile[n];
   var words = sourceText.split(" ");
