@@ -42,13 +42,13 @@ function renderText() {
     // this logic works well, but does not stop the bleeding from the edges
     if (wPoint >= (0 + margin) && wPoint <= (width - margin)) {
       fill(random(255) - 100);
-      text(words[i], wPoint, hPoint);
+      text(words[i], wPoint + 20, hPoint + 40);
     } else if ((wPoint + margin) >= (width - margin)) {
       fill(random(255) - 100);
-      text(words[i], wPoint - margin - 40, hPoint + 40);
+      text(words[i], (wPoint - margin) - 40, hPoint + 40);
     } else if (wPoint <= (0 + margin)) {
       fill(random(255) - 100);
-      text(words[i], wPoint + margin + 40, hPoint + 40);
+      text(words[i], 50 + (wPoint + margin) + 40, hPoint + 40);
     } else {
       fill(random(255) - 100);
       text(words[i], wPoint + margin, hPoint + 40);
