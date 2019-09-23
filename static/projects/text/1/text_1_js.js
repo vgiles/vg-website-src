@@ -16,6 +16,7 @@ function setup() {
 
 function draw() {
   renderText();
+  if mouseClicked()
 }
 
 function renderText() {
@@ -36,7 +37,7 @@ function renderText() {
     } else if (wPoint > (width - margin)){
       fill(random(255) - 100);
       textSize(random(40));
-      text(words[i], wPoint - margin - 30, hPoint + 40);
+      text(words[i], wPoint - (wPoint+margin) - 10, hPoint + 40);
     } else {
       fill(random(255) - 100);
       textSize(random(40));
