@@ -15,7 +15,7 @@ function setup() {
 }
 
 function draw() {
-  background(255);
+  background(220);
   textAlign(CENTER, CENTER);
   var n = int(random(loadedFile.length - 1));
   var sourceText = loadedFile[n];
@@ -23,8 +23,8 @@ function draw() {
   for (var i = 0; i < words.length; i++) {
     var random_times = noise(500);
     var margin = textWidth(words[i]);
-    var wPoint = random_times*random(width);
-    var hPoint = random_times*random(height);
+    var wPoint = int(random_times*random(width));
+    var hPoint = int(random_times*random(height));
     if (wPoint >= (0 + margin)) {
       fill(random(255) - 100);
       textSize(random(40));
