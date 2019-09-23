@@ -15,6 +15,10 @@ function setup() {
 }
 
 function draw() {
+  renderText();
+}
+
+function renderText() {
   background(220);
   textAlign(LEFT, TOP);
   var n = int(random(loadedFile.length - 1));
@@ -29,6 +33,10 @@ function draw() {
       fill(random(255) - 100);
       textSize(random(40));
       text(words[i], wPoint, hPoint);
+    } else if (wPoint >= width - margin ){
+      fill(random(255) - 100);
+      textSize(random(40));
+      text(words[i], wPoint - margin - 10, hPoint + 40);
     } else {
       fill(random(255) - 100);
       textSize(random(40));
