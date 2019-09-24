@@ -40,6 +40,7 @@ function renderText() {
   var words = phrases.split(" ");
   textSize(16);
   for (var i = 0; i < source.length; i++) {
+    strokeWeight(1);
     var xPos = (50+int(random(width-rMargin)))-rMargin;
     var yPos = 50+i*70;
     var staffStartX = xPos - 10;
@@ -62,10 +63,16 @@ function renderText() {
         var noteHeadX = (staffStartX+rMargin);
         var noteHeadY = random((staffEndY+(p*staffGap))-(staffGap*5),staffEndY+(p*staffGap));
         ellipse(noteHeadX,noteHeadY,6,6);
+        textSize(14);
+        var choice = int(random(2));
+        if (choice == 1) {
+          text('#', noteHeadX-15, noteHeadY-8);
+        }
       }
     }
   }
 }
+
 
 function mouseClicked() {// use mouseclick to regenerate to save refreshing
   shuffle(source, true);
