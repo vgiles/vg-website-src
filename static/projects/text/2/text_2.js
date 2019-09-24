@@ -43,12 +43,14 @@ function blank_staff() {
 
 // render some text
 function renderText() {
+  textAlign(LEFT,TOP);
   var n = int(random(source.length -1));
   var phrases = source[n];
   var words = phrases.split(" ");
   textSize(16);
   for (var i = 0; i < source.length; i++) {
+    var rMargin = int(textWidth(words[i]));
     fill(int(random(100)));
-    text(words[i], 50, 50+i*50);
+    text(words[i], (50+int(random(width-rMargin)))-rMargin, 50+i*70);
   }
 }
