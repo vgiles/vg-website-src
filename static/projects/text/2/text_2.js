@@ -21,11 +21,11 @@ function setup() {
 }
 
 // define a temporary structure as a placeholder
-function temp() {
-  textAlign(CENTER,CENTER);
-  fill(9);
-  text('Designing now...', width/2, height/2);
-}
+// function temp() {
+//   textAlign(CENTER,CENTER);
+//   fill(9);
+//   text('Designing now...', width/2, height/2);
+// }
 
 // define the primary drawing system
 function draw() {
