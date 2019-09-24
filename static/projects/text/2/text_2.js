@@ -29,7 +29,6 @@ function setup() {
 
 // define the primary drawing system
 function draw() {
-  background(220);
   //temp();
   renderText();
 }
@@ -43,14 +42,20 @@ function blank_staff() {
 
 // render some text
 function renderText() {
+  background(220);
   textAlign(LEFT,TOP);
   var n = int(random(source.length -1));
   var phrases = source[n];
   var words = phrases.split(" ");
   textSize(16);
   for (var i = 0; i < source.length; i++) {
+    var xPos = (50+int(random(width-rMargin)))-rMargin;
     var rMargin = int(textWidth(words[i]));
     fill(int(random(100)));
-    text(words[i], (50+int(random(width-rMargin)))-rMargin, 50+i*70);
+    text(words[i], xPos, 50+i*70);
   }
+}
+
+function mouseClicked() {// use mouseclick to regenerate to save refreshing
+  renderText();
 }
