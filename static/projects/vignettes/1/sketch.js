@@ -27,7 +27,7 @@ function composer_display() {
   textSize(20);
   text(composer, width/2+20, 165);
   textSize(12);
-  var text_instr = "Instructions: Use any instrument, assume any clef; improvise gesturally/spacially by the indicated animation.";
+  var text_instr = "Instructions: Use any instrument, assume any clef; improvise gesturally/spatially by the indicated animation.";
   text(text_instr, width/3, 12);
 }
 
