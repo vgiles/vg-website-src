@@ -4,11 +4,14 @@
 
 // declare some global variables
 
-var staffPosX, staffPosY, readTextFile;
+var staffPosX;
+var staffPosY;
+var source;
 
 // preload the files into an array of strings.
 function preload() {
-  readTextFile = loadStrings('sourcetext.txt');
+  source = loadStrings("sourceText.txt" );
+  // console.log(source);
 }
 
 // setup the canvas
@@ -27,7 +30,8 @@ function temp() {
 // define the primary drawing system
 function draw() {
   background(220);
-  temp();
+  //temp();
+  renderText();
 }
 
 // draw a blank staff onto which gestures can be placed
@@ -38,3 +42,13 @@ function blank_staff() {
 // draw some dots
 
 // render some text
+function renderText() {
+  var n = int(random(source.length -1));
+  var phrases = source[n];
+  var words = phrases.split(" ");
+  textSize(16);
+  for (var i = 0; i < source.length; i++) {
+    fill(int(random(100)));
+    text(words[i], 50, 50+i*50);
+  }
+}
