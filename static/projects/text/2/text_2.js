@@ -4,8 +4,6 @@
 
 // declare some global variables
 
-var staffPosX;
-var staffPosY;
 var source;
 
 // preload the files into an array of strings.
@@ -16,7 +14,7 @@ function preload() {
 
 // setup the canvas
 function setup() {
-  createCanvas(windowWidth-50,windowHeight-50);
+  createCanvas(windowWidth-30,windowHeight-30);
   noLoop();
 }
 
@@ -42,7 +40,7 @@ function blank_staff() {
 
 // render some text
 function renderText() {
-  background(220);
+  background(235);
   textAlign(LEFT,TOP);
   var n = int(random(source.length -1));
   var phrases = source[n];
@@ -50,12 +48,32 @@ function renderText() {
   textSize(16);
   for (var i = 0; i < source.length; i++) {
     var xPos = (50+int(random(width-rMargin)))-rMargin;
+    var yPos = 50+i*70;
+    var staffStartX = xPos - 10;
+    var staffStartY = yPos - 35;
+    var staffGap = 7;
     var rMargin = int(textWidth(words[i]));
-    fill(int(random(100)));
-    text(words[i], xPos, 50+i*70);
+    var staffEndX = staffStartX + rMargin + 20;
+    var staffEndY = staffStartY;
+    if (yPos > (height-16)) {
+      var yPos = yPos - 6;
+    }
+    var fillFade = int(random(200));
+    fill(fillFade);
+    text(words[i], xPos, yPos);
+    for (var p = 0; p < 5; p++) {
+      stroke(fillFade);
+      line(staffStartX,staffStartY+(p*staffGap),staffEndX,staffEndY+(p*staffGap));
+    }
   }
 }
 
 function mouseClicked() {// use mouseclick to regenerate to save refreshing
+  shuffle(source, true);
+  renderText();
+}
+
+function touchEnded() {// use touch-release to regenerate to save refreshing
+  shuffle(source, true);
   renderText();
 }
