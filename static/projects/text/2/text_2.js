@@ -31,13 +31,6 @@ function draw() {
   renderText();
 }
 
-// draw a blank staff onto which gestures can be placed
-function blank_staff() {
-
-}
-
-// draw some dots
-
 // render some text
 function renderText() {
   background(235);
@@ -50,8 +43,8 @@ function renderText() {
     var xPos = (50+int(random(width-rMargin)))-rMargin;
     var yPos = 50+i*70;
     var staffStartX = xPos - 10;
-    var staffStartY = yPos - 35;
-    var staffGap = 7;
+    var staffStartY = yPos - 33;
+    var staffGap = 6;
     var rMargin = int(textWidth(words[i]));
     var staffEndX = staffStartX + rMargin + 20;
     var staffEndY = staffStartY;
@@ -65,6 +58,8 @@ function renderText() {
       stroke(fillFade);
       line(staffStartX,staffStartY+(p*staffGap),staffEndX,staffEndY+(p*staffGap));
     }
+    var noteHeadX = int(random(staffStartX,staffEndX));
+    //var noteHeadY = 
   }
 }
 
