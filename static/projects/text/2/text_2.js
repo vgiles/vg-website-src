@@ -57,9 +57,13 @@ function renderText() {
     for (var p = 0; p < 5; p++) {
       stroke(fillFade);
       line(staffStartX,staffStartY+(p*staffGap),staffEndX,staffEndY+(p*staffGap));
+      if (p == 4) {
+        ellipseMode(CENTER);
+        var noteHeadX = (staffStartX+rMargin);
+        var noteHeadY = random((staffEndY+(p*staffGap))-(staffGap*5),staffEndY+(p*staffGap));
+        ellipse(noteHeadX,noteHeadY,6,6);
+      }
     }
-    var noteHeadX = int(random(staffStartX,staffEndX));
-    //var noteHeadY = 
   }
 }
 
