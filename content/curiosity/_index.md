@@ -8,3 +8,5 @@ layout: "single"
 [Vignette #1](/projects/vignettes/1/) - A piece for any instrument (2018)
 
 [Žižek Square](/projects/text/1/) - An aesthetically pleasing square that quotes parts of a short paragraph from Žižek's _the Sublime Object of Ideology (1989)_ (2019)
+
+[How ought one live?](/projects/text/2/) - An open score for voice based on an introduction to Deleuze. (2019)
