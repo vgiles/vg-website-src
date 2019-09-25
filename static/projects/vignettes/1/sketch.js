@@ -1,22 +1,28 @@
 /* Vignette #1 for any instrument.
 Vincent Giles, 2018
 */
+let x = 40;
+let y = 60;
+let xStart = 40;
+let yStart = 60;
 function basic_staff() {
-  let xStart = 40;
-  let yStart = 60;
+  stroke(0);
   let xEnd = xStart+920;
   let yEnd = yStart;
   let topLeft = width-40;
-  // let Gap = 10;
   for (let i = 0; i < 5; i++) {
     line(xStart, yStart+(i*10), xEnd, yEnd+(i*10));
   }
+  noStroke();
 }
 
 function initialise() {
+  x = 40;
+  y = 60;
   background(255);
   basic_staff();
   composer_display();
+  frameRate(5);
 }
 
 function composer_display() {
@@ -37,86 +43,38 @@ function setup() {
 }
 
 function draw() {
-  //newMusic();
+  newMusic();
 }
-
-
-// want to make this much more efficient.
 
 function newMusic() {
+  let r = random(200, 255);
+  let g = random(100, 255);
+  let b = random(150, 200);
+  let a = random(100, 200);
+  let diam = random(5, 30);
+  // let staff = basic_staff();
+  let staffXStart = 40;
+  let staffYStart = 60;
+  let xRand = random(5, 50);
+  let yRand = random(5, 40);
+  let yChange = int(random(-1, 1));
+  //let xChange = int(random(-1, 1));
+  let timing = int(random(1, 15));
   let xInc = int(random(1, 30));
-  for (var p = 0; p < 960; p + xInc) {
-    let x = 40;
-    let y = 40;
-    let r = random(200, 255);
-    let g = random(100, 255);
-    let b = random(150, 200);
-    let a = random(100, 200);
-    let diam = random(5, 30);
-    // let staff = basic_staff();
-    let staffXStart = 40;
-    let staffYStart = 60;
-    let xRand = random(5, 50);
-    let yRand = random(5, 40);
-    let yChange = int(random(-1, 1));
-    //let xChange = int(random(-1, 1));
-    let timing = int(random(1, 15));
-    let xInc = int(random(1, 30));
-    if (x < 960) {
-      x = x + p;
-      noStroke();
-      fill(r, g, b, a);
-      ellipse(x, y, diam, diam);
-      stroke(0);
-      let xInc = int(random(1, 30));
+  //for (var p = 0; p < 960; p++) {
+  if (x < 960) {
+    x = x + xRand;
+    if (y <= staffYStart) {
+      y = staffYStart + yRand;
+    } else {
+      y = staffYStart + yRand*yChange;
     }
-    else {
-      initialise();
-    }
+    fill(r, g, b, a);
+    ellipse(x, y, diam, diam);
+    let f = int(random(1,15));
+    frameRate(f);
+  }
+  else {
+    initialise();
   }
 }
-
-function circle() {
-  noStroke();
-  fill(r, g, b, a);
-  ellipse(x, y, diam, diam);
-  stroke(0); // just to make sure it doesn't interfere with other functions
-}
-//
-// function sploosh() {
-//   let r = random(200, 255);
-//   let g = random(100, 255);
-//   let b = random(150, 200);
-//   let a = random(100, 200);
-//   let diam = random(5, 30);
-//   let staff = basic_staff();
-//   let staffXStart = 40;
-//   let staffYStart = 60;
-//   let xRand = random(5, 50);
-//   let yRand = random(5, 40);
-//   let yChange = random(-1, 1);
-//   let xChange = random(-1, 1);
-//   let f = 5;
-//   if (x < width-40) {
-//     x = x + xRand;
-// } else if (x > width-40) {
-//     x = 40;
-//     //background(255);
-//     stroke(255);
-//     basic_staff();
-//     noStroke();
-//     composer_display();
-//   }
-//   if (y > staffYStart) {
-//     y = staffYStart + yRand;
-//   } else {
-//     y = staffYStart + yRand*yChange;
-//   }
-//   fill(r, g, b, a);
-//   ellipse(x, y, diam, diam);
-//   //noStroke();
-//   basic_staff();
-//   f = random(1, 15);
-//   frameRate(f);
-//   background(255);
-// }
