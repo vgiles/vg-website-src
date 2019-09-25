@@ -9,15 +9,13 @@ let title = "Small Vignette #1";
 function basic_staff() {
   var xStart = 40;
   var yStart = 60;
-  var xEnd = 960;
-  var yEnd = 60;
-  var TopLeft = width-40;
+  var xEnd = xStart+920;
+  var yEnd = yStart;
+  var topLeft = width-40;
   // var Gap = 10;
-  line(xStart, yStart, xEnd, yEnd);
-  line(xStart, yStart+10, xEnd, yEnd+10);
-  line(xStart, yStart+20, xEnd, yEnd+20);
-  line(xStart, yStart+30, xEnd, yEnd+30);
-  line(xStart, yStart+40, xEnd, yEnd+40);
+  for (var i = 0; i < 5; i++) {
+  line(xStart, yStart+(i*10), xEnd, yEnd+(i*10));
+}
 }
 
 function composer_display() {
@@ -39,6 +37,37 @@ function setup() {
 }
 
 function draw() {
+  sploosh();
+}
+
+
+// want to make this much more efficient.
+
+function newMusic() {
+  var r = random(200, 255);
+  var g = random(100, 255);
+  var b = random(150, 200);
+  var a = random(100, 200);
+  var diam = random(5, 30);
+  var staff = basic_staff();
+  var staffXStart = 40;
+  var staffYStart = 60;
+  var xRand = random(5, 50);
+  var yRand = random(5, 40);
+  var yChange = random(-1, 1);
+  var xChange = random(-1, 1);
+  var timing = int(random(1, 15));
+
+}
+
+function circle() {
+  noStroke();
+  fill(r, g, b, a);
+  ellipse(x, y, diam, diam);
+  stroke(0); // just to make sure it doesn't interfere with other functions
+}
+
+function sploosh() {
   var r = random(200, 255);
   var g = random(100, 255);
   var b = random(150, 200);
@@ -57,7 +86,7 @@ function draw() {
 } else if (x > width-40) {
     x = 40;
     background(255);
-    stroke(0);
+    stroke(255);
     basic_staff();
     noStroke();
     composer_display();
