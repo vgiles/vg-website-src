@@ -50,7 +50,7 @@ function renderText() {
     var staffEndX = staffStartX + rMargin + 20;
     var staffEndY = staffStartY;
     if (yPos > (height-16)) {
-      var yPos = yPos - 6;
+      var yPos = yPos - 16;
     }
     var fillFade = int(random(200));
     fill(fillFade);
