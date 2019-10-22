@@ -9,6 +9,8 @@ layout: "single"
 
 <iframe style="border: 0; width: 200px; height: 200px;" src="https://bandcamp.com/EmbeddedPlayer/album=4170228168/size=large/bgcol=ffffff/linkcol=63b2cc/minimal=true/transparent=true/" seamless><a href="http://vincentgiles.bandcamp.com/album/dictaphone-music">dictaphone music by Vincent Giles</a></iframe><iframe style="border: 0; width: 200px; height: 200px;" src="https://bandcamp.com/EmbeddedPlayer/album=2305031539/size=large/bgcol=ffffff/linkcol=63b2cc/minimal=true/transparent=true/" seamless><a href="http://vincentgiles.bandcamp.com/album/post-hoc-ergo-propter-hoc">Post Hoc Ergo Propter Hoc by Vincent Giles</a></iframe><iframe style="border: 0; width: 200px; height: 200px;" src="https://bandcamp.com/EmbeddedPlayer/album=1714574950/size=large/bgcol=ffffff/linkcol=63b2cc/minimal=true/transparent=true/" seamless><a href="http://vincentgiles.bandcamp.com/album/dictaphone-music-ii">dictaphone music II by Vincent Giles</a></iframe>
 
+More available on Bandcamp.
+
 [Monash University Flute Ensemble: Fantasie Australis][1] (CD)
 
 Two of my works: _Fantasie Australis_ and _Fragments_ appear on this newly released CD from Move Records. I think this is an amazing achievement and the result is superb. It's a very fine CD and there is some great playing on it! Many thanks to Peter and the MUFE.
