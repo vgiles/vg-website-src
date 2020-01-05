@@ -5,4 +5,3 @@ type: "new"
 layout: "single"
 ---
 {{< gallery dir="/img/xmas19/" />}}`
-{{< load-photoswipe >}}
