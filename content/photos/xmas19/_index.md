@@ -1,0 +1,1 @@
+{{< gallery dir="/static/img/xmas19/" />}}`
