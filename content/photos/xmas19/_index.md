@@ -4,4 +4,4 @@ date: 2019-06-06
 type: "new"
 layout: "single"
 ---
-{{< gallery dir="/static/img/xmas19/" />}}`
+{{< gallery dir="/img/xmas19/" />}}`
