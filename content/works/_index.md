@@ -6,6 +6,15 @@ layout: "single"
 ---
 This page contains a list of works arranged by instrumentation. If the score is not linked herein, please contact me to obtain. Click the envelope.
 
+### Solo
+
+#### Voice
+
+_Mesostics [2019-]_, solo voice. Dur: variable (currently two works). 
+[Score](/scores/mesostics-3-4.pdf)
+
+_How ought one live? [2019]_, solo voice (or with electronics). Dur: variable.
+[Score/Interactive](/projects/text/2/)
 
 #### Flute
 
@@ -34,6 +43,8 @@ Score: editing for publication. Please email me.
 
 _Feeder [2016-17]_, any treble instrument. Dur: any. Dedicated to [Alice Bennett][11].  
 [Score (Max Patch)][12] Please email me about performing this as it is not yet premiered.
+
+### Duo
 
 #### Flute and Clarinet
 
@@ -76,6 +87,8 @@ Score: currently being edited for publication, please contact.
 _End to Reattain [2016]_ (structured improvisation). Dur: 20′  
 [Score][21] | [Recording][22] (Giles/Welsh)
 
+### Trio
+
 #### Piano, flute, clarinet
 
 _The Gesture of Relationships and the Relationships of Gesture [2012-14]._ For Alice Bennett. Dur: c. 12′  
@@ -89,7 +102,45 @@ _A Semblance of a Whole (a) [2015]_. For Ochre Trio. Dur: c. 12′
 _The Confession of Dr Faust [2012]_. Dur: c. 7′  
 [Score][23]
 
-#### Any combination
+### Quartet
+
+#### Flute quartet
+
+_Staatiline Maastik [2011]._ Dur: c. 5′  
+[Score][25]
+
+#### Flute, clarinet, violin, cello
+
+_Four Suits of Thirteen [2011]._ Dur: c. 9′  
+[Score][30]
+
+#### Guitar (or baroque guitar), flute (or traverso), violin (or baroque violin), cello (or 7-string bass viola da gamba)
+
+_... of sediment...[2017]._ Dur: 11'15"  
+[Score][31]
+
+#### Flute quartet + percussion
+
+_… In Dialogue… [2013]._ Dur: 4'40"  
+[Score][26] (arrangement of _Differing Dialogues_)
+
+#### Flute Ensemble
+
+_Fragments [2010]._ Dur: c. 6'30"  
+[Score][27] | [Recording][28]
+
+_Fantasie Australis [2011]._ Dur: c. 4'00"  
+[Score][29] | [Recording][28]
+
+### > 4 players
+
+#### Flute, clarinet, french horn, violin, cello, piano, percussion
+
+_A Glimmer of Foresight [2012]._ Dur: c. 7'30"  
+[Score][32]
+
+
+### Open Instrumentation
 
 _Vignette #1 [2018]._ Dur: any.<br/>
 [Web-based score](https://vgiles.github.io/projects/vignettes/1/)
@@ -106,44 +157,10 @@ _Situation(s) [2014]_. Dur: any.
 _Feeder [2016-17]_, any treble instrument. Dur: any. Dedicated to [Alice Bennett][11].  
 [Score (Max Patch)][12] Please email me about performing this as it is not yet premiered.
 
-#### Flute quartet
+#### Threads: Algorithmic Compositions for Humans (2014+):
 
-_Staatiline Maastik [2011]._ Dur: c. 5′  
-[Score][25]
-
-#### Flute quartet + percussion
-
-_… In Dialogue… [2013]._ Dur: 4'40"  
-[Score][26] (arrangement of _Differing Dialogues_)
-
-#### Flute Ensemble
-
-_Fragments [2010]._ Dur: c. 6'30"  
-[Score][27] | [Recording][28]
-
-_Fantasie Australis [2011]._ Dur: c. 4'00"  
-[Score][29] | [Recording][28]
-
-#### Flute, clarinet, violin, cello
-
-_Four Suits of Thirteen [2011]._ Dur: c. 9′  
-[Score][30]
-
-#### Guitar (or baroque guitar), flute (or traverso), violin (or baroque violin), cello (or 7-string bass viola da gamba)
-
-_... of sediment...[2017]._ Dur: 11'15"  
-[Score][31]
-
-#### Flute, clarinet, french horn, violin, cello, piano, percussion
-
-_A Glimmer of Foresight [2012]._ Dur: c. 7'30"  
-[Score][32]
-
-#### Logarithms: Algorithmic Compositions for Humans (2014+):
-
-Improvisational contexts for various ensemble/solo configurations. Ongoing work exploring the potentials of algorithmic/mathematical structures and descriptions as a basis for structured improvisation.
-
-Detail coming soon…
+Improvisational contexts for various ensemble/solo configurations. Ongoing work exploring the potentials of algorithmic/mathematical structures and descriptions as a basis for structured improvisation. Provided below is the syntax as a work in progress, and the current state of the pieces. Renamed from "Logarithm" to "Thread" in 2020.
+[Score](/scores/threads-2015-16.pdf)
 
 ** **
 
