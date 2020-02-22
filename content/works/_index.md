@@ -4,7 +4,7 @@ date: 2019-06-06
 type: "new"
 layout: "single"
 ---
-This page contains a list of works arranged by instrumentation. If the score is not linked herein, please contact me to obtain. Click the envelope.
+This page contains a list of works arranged by instrumentation. If the score is not linked herein, please contact me to obtain. Click the envelope. This does not (yet) contain fixed media and installation pieces. 
 
 ### Solo
 
