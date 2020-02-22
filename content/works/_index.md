@@ -160,6 +160,7 @@ _Feeder [2016-17]_, any treble instrument. Dur: any. Dedicated to [Alice Bennett
 #### Threads: Algorithmic Compositions for Humans (2014+):
 
 Improvisational contexts for various ensemble/solo configurations. Ongoing work exploring the potentials of algorithmic/mathematical structures and descriptions as a basis for structured improvisation. Provided below is the syntax as a work in progress, and the current state of the pieces. Renamed from "Logarithm" to "Thread" in 2020.
+
 [Score](/scores/threads-2014-16.pdf)
 
 ** **
