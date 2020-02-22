@@ -11,7 +11,7 @@ This page contains a list of works arranged by instrumentation. If the score is 
 #### Voice
 
 _Mesostics [2019-]_, solo voice. Dur: variable (currently two works). 
-[Score](/scores/mesostics-3-4.pdf)
+[Score](/scores/mesostic-3-4.pdf)
 
 _How ought one live? [2019]_, solo voice (or with electronics). Dur: variable.
 [Score/Interactive](/projects/text/2/)
@@ -160,7 +160,7 @@ _Feeder [2016-17]_, any treble instrument. Dur: any. Dedicated to [Alice Bennett
 #### Threads: Algorithmic Compositions for Humans (2014+):
 
 Improvisational contexts for various ensemble/solo configurations. Ongoing work exploring the potentials of algorithmic/mathematical structures and descriptions as a basis for structured improvisation. Provided below is the syntax as a work in progress, and the current state of the pieces. Renamed from "Logarithm" to "Thread" in 2020.
-[Score](/scores/threads-2015-16.pdf)
+[Score](/scores/threads-2014-16.pdf)
 
 ** **
 
