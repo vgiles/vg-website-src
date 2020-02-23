@@ -4,7 +4,7 @@ date: 2019-06-06
 type: "new"
 layout: "single"
 ---
-This page contains a list of works arranged by instrumentation. If the score is not linked herein, please contact me to obtain. Click the envelope. This does not (yet) contain fixed media and installation pieces. 
+This page contains a list of works arranged by instrumentation. If the score is not linked herein, please contact me to obtain by clicking the envelope at top right. This list is not exhaustive, in that there are many sketches, demos, durational projects without major public outcome, jazz-based works, works pre-2009, and works for popular music contexts, that I have not included here. 
 
 ### Solo
 
@@ -139,7 +139,6 @@ _Fantasie Australis [2011]._ Dur: c. 4'00"
 _A Glimmer of Foresight [2012]._ Dur: c. 7'30"  
 [Score][32]
 
-
 ### Open Instrumentation
 
 _Vignette #1 [2018]._ Dur: any.<br/>
@@ -162,6 +161,67 @@ _Feeder [2016-17]_, any treble instrument. Dur: any. Dedicated to [Alice Bennett
 Improvisational contexts for various ensemble/solo configurations. Ongoing work exploring the potentials of algorithmic/mathematical structures and descriptions as a basis for structured improvisation. Provided below is the syntax as a work in progress, and the current state of the pieces. Renamed from "Logarithm" to "Thread" in 2020.
 
 [Score](/scores/threads-2014-16.pdf)
+
+### Electroacoustic
+
+_vgst1 [2019]_, fixed media. Dur: 7'13".    
+[Recording](https://wfls.bandcamp.com/album/no-20-winter-2019)
+
+_dictaphone music [2019]_, fixed media/electronic release. Dur: 28'29". 
+[Recording](https://vincentgiles.bandcamp.com/album/dictaphone-music)
+
+_dictaphone music II [2019]_, fixed media/electronic release. Dur: 32'57".  
+[Recording](https://vincentgiles.bandcamp.com/album/dictaphone-music-ii)
+
+_perspectives [2019]_, fixed media/electronic release. Dur: 58'16". 
+[Recording](https://vincentgiles.bandcamp.com/album/perspectives)
+
+_Organelle 1 [2019]_, electronic release. Dur: 15'08".  
+[Recording](https://vincentgiles.bandcamp.com/album/organelle-1)
+
+_Self Portrait 2018.1 [2018]_, fixed or interactive media: webcam, samples, MaxMSP. Dur: 17'05".
+[video](https://www.youtube.com/watch?v=6q7QdwSTCM0)
+
+_Correct Gopher Hoop Stop [2017]_, four to eight channel fixed media. Dur: 22'. 
+For Tilde New Music Festival, 2017.
+
+_Injection [2015]_, live electronics. Dur: 30'. 
+Commissioned by Banyule City Council for the opening of Works on Paper, 2015, Hatch Contemporary Art Space. 
+
+_Pause/Decay/Talk [2015]_, live electronics. Dur: 30'. 
+Commissioned by Banyule City Council for the opening of Works on Paper, 2015, Hatch Contemporary Art Space. 
+
+_Blank:22k [2015]_, no-input-mixer and live-patching. Collaboration with David Jacob. Dur: 36'56".  
+[Recording](https://vincentgiles.bandcamp.com/album/blank-22k)
+
+_A Semblance of a Whole (B) [2015]_, fixed media. Dur: 12'.
+Electroacoustic-only version of the same titled instrumental composition. 
+
+### Installation
+
+_16 Perspectives [2018]_, eight-channel (4x space, 2x stereo headphone). Dur: 78'33".   
+Commissioned by Banyule City Council for Hatch Contemporary Art Space. 
+
+_Post Hoc Ergo Propter Hoc [2016]_, stereo installation. Dur: 73'.  
+For Love/City III festival, 2016. 
+
+_Bits & Pieces [2016]_, site-specific smartphone installation. Dur: 7'40". 
+Commissioned by Melbourne Fringe Festival, for Auction Rooms cafe, 2016. 
+
+_Put Together to Present [2016]_, site-specific smartphone installation. Dur: 17'24".   
+Commissioned by Melbourne Fringe Festival, for Auction Rooms cafe, 2016.
+
+_Let Me Count The Ways [2014]_, fixed-media for surface-exciting speakers. Dur: 18'.    
+Commissioned by the University of Melbourne for Julia St Creative Space, Portland, VIC, 2014, while artist-in-residence. Part of the larger [project of the same name](https://rogeralsop.wixsite.com/counting-the-ways)
+
+_The Great Unhearing [2014]_, fixed-media for surface-exciting speakers. Dur: 26'.  
+Troika exhibition, curated by Aneta Trajkoski, George Paton Gallery, 2014. 
+[video](https://www.youtube.com/watch?v=QjQJaLjOfEw)
+
+_Heard/Unheard:Flux_ [2013]_, fixed-media four speakers in an outdoor space. Dur: 8:00'00". 
+Commissioned by the University of Melbourne in partnership with the Portland Upwelling Festival, 2013. Developed while artist-in-residence at the festival.
+
+_Winter [2012]_, fixed-media (federation bells, Birrarung Marr). Dur: 5'30".
 
 ** **
 
