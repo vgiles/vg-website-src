@@ -185,7 +185,7 @@ _Correct Gopher Hoop Stop [2017]_, four to eight channel fixed media. Dur: 22'.
 For Tilde New Music Festival, 2017.
 
 _Injection [2015]_, live electronics. Dur: 30'. 
- 
+
 Commissioned by Banyule City Council for the opening of Works on Paper, 2015, Hatch Contemporary Art Space. 
 
 _Pause/Decay/Talk [2015]_, live electronics. Dur: 30'.   
@@ -218,7 +218,7 @@ _The Great Unhearing [2014]_, fixed-media for surface-exciting speakers. Dur: 26
 Troika exhibition, curated by Aneta Trajkoski, George Paton Gallery, 2014.   
 [video](https://www.youtube.com/watch?v=QjQJaLjOfEw)
 
-_Heard/Unheard:Flux_ [2013]_, fixed-media four speakers in an outdoor space. Dur: 8:00'00".  
+_Heard/Unheard:Flux [2013]_, fixed-media four speakers in an outdoor space. Dur: 8:00'00".  
 Commissioned by the University of Melbourne in partnership with the Portland Upwelling Festival, 2013. Developed while artist-in-residence at the festival.
 
 _Winter [2012]_, fixed-media (federation bells, Birrarung Marr). Dur: 5'30".
