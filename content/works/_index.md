@@ -118,11 +118,6 @@ _Four Suits of Thirteen [2011]._ Dur: c. 9'.
 _... of sediment...[2017]._ Dur: 11'15".      
 [Score][31]
 
-#### Flute quartet + percussion
-
-_… In Dialogue… [2013]._ Dur: 4'40".      
-[Score][26] (arrangement of _Differing Dialogues_)
-
 #### Flute Ensemble
 
 _Fragments [2010]._ Dur: c. 6'30".  
@@ -137,6 +132,11 @@ _Fantasie Australis [2011]._ Dur: c. 4'00".
 
 _A Glimmer of Foresight [2012]._ Dur: c. 7'30".   
 [Score][32]
+
+#### Flute quartet + percussion
+
+_… In Dialogue… [2013]._ Dur: 4'40".      
+[Score][26] (arrangement of _Differing Dialogues_)
 
 ### Open Instrumentation
 
