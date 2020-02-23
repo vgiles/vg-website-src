@@ -185,7 +185,6 @@ _Correct Gopher Hoop Stop [2017]_, four to eight channel fixed media. Dur: 22'.
 For Tilde New Music Festival, 2017.
 
 _Injection [2015]_, live electronics. Dur: 30'. 
-
 Commissioned by Banyule City Council for the opening of Works on Paper, 2015, Hatch Contemporary Art Space. 
 
 _Pause/Decay/Talk [2015]_, live electronics. Dur: 30'.   
