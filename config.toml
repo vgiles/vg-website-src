@@ -4,6 +4,12 @@ title = "Vincent Giles"
 theme = "minimal"
 staticDir = ["static", "static2"]
 
+[markup]
+  defaultMarkdownHandler = "goldmark"
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 [params]
     author = "Vincent Giles"
     description = "Composer : Performer : Scholar : (site under renovation)"
