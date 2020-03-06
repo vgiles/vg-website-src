@@ -21,7 +21,7 @@ The name “Pleebland” comes from Margaret Atwood’s MadAddam trilogy of book
 Which suggests a degree of political engagement in the ideology of the ensemble. Indeed, the notion of improvisation in this context is informed by a notion of freedom.
 
 As Barrett (2002) says:
->I prefer to think of contemporary art music not as another convenient category but, from a more idealistic standpoint, as describing those musics which refuse to be categorised, ... [t]his is one of the few real freedoms available to us, after all.
+>I prefer to think of contemporary art music not as another convenient category but, from a more idealistic standpoint, as describing those musics which refuse to be categorised, in other words as a phenomenon which is collectively not smaller but actually larger than the profit-friendly musics which seem to surround it, because of the breadth of its imaginative horizons, and the freedom we have, both as musicians and as listeners, to explore them. This is one of the few real freedoms available to us, after all.
 
 [Click here for more information](/projects/pleebland/ensemble-pleebland.pdf)
 
