@@ -62,9 +62,14 @@ staticDir = ["static", "static2"]
     weight = 7
 
 [[menu.main]]
+    url = "/pleebland/"
+    name = "Pleebland"
+    weight = 8
+
+[[menu.main]]
     url = "/calendar/"
     name = "Calendar"
-    weight = 8
+    weight = 9
 
 # Social icons to be shown on the right-hand side of the navigation bar
 # The "name" field should match the name of the icon to be used
