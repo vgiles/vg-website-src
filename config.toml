@@ -1,6 +1,6 @@
-baseURL = "https://vgiles-net-deployment.onrender.com/"
+baseURL = "https://vgiles.net/"
 languageCode = "en-us"
-title = "Vincent Giles"
+title = "Vincent Giles - Composer & Producer"
 theme = "minimal"
 staticDir = ["static", "static2"]
 
@@ -12,7 +12,7 @@ staticDir = ["static", "static2"]
 
 [params]
     author = "Vincent Giles"
-    description = "Composer : Performer : Scholar : (site under renovation)"
+    description = "Composer : Performer : Scholar : Producer"
     githubUsername = "vgiles"
     accent = "grey"
     showBorder = true
@@ -77,6 +77,10 @@ staticDir = ["static", "static2"]
     name = "Calendar"
     weight = 9
 
+[[menu.main]]
+    url = "https://filterednoisecast.wordpress.com"
+    name = "Podcast"
+    weight = 10
 # Social icons to be shown on the right-hand side of the navigation bar
 # The "name" field should match the name of the icon to be used
 # The list of available icons can be found at http://fontawesome.io/icons/
