@@ -1,6 +1,6 @@
 baseURL = "https://vgiles.net/"
 languageCode = "en-us"
-title = "Vincent Giles - Composer & Producer"
+title = "Vincent Giles"
 theme = "minimal"
 staticDir = ["static", "static2"]
 
