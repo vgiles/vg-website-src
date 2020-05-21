@@ -23,8 +23,8 @@ staticDir = ["static", "static2"]
     highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift"]
     featureURL = "https://www.youtube.com/embed/j6LbX4E-EHo"  #copy embed code here -- not working, but the other parts do. To feature you need to insert the iframe embed within index.html
     featureCMP = "Vincent Giles" #composer
-    featureTITLE = "Study #2" #title
-    featureYEAR = "2019" #year of composition
+    featureTITLE = "Live at Lebowskis | May 17th, 2020" #title
+    featureYEAR = "2020" #year of composition
     copyright = "&copy; 2020 Vincent Giles, all rights reserved. Powered by [Hugo](https://gohugo.io) and [Minimal](https://github.com/calintat/minimal)" 
 
 [[menu.main]]
