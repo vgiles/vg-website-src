@@ -11,7 +11,7 @@ This page contains a list of works arranged by instrumentation. If the score is 
 #### Voice
 
 _Mesostics [2019-]_, solo voice. Dur: variable (currently two works).   
-[Score](/scores/mesostic-3-4.pdf)
+[Score](/scores/mesostics-vol1.pdf)
 
 _How ought one live? [2019]_, solo voice (or with electronics). Dur: variable.  
 [Score/Interactive](/projects/text/2/)
