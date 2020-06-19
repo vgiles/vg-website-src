@@ -25,7 +25,7 @@ staticDir = ["static", "static2"]
     featureCMP = "Vincent Giles" #composer
     featureTITLE = "Live at Lebowskis | May 17th, 2020" #title
     featureYEAR = "2020" #year of composition
-    copyright = "&copy; 2020 Vincent Giles, all rights reserved. Powered by [Hugo](https://gohugo.io) and [Minimal](https://github.com/calintat/minimal). I live and work on the lands of the Wurundjeri people of the Kulin Nations, and acknowledge them as the traditional owners. I pay my respects to their Elders past, present, and emerging. Sovereignty has never been ceded." 
+    copyright = "&copy; 2020 Vincent Giles, all rights reserved. Powered by [Hugo](https://gohugo.io) and [Minimal](https://github.com/calintat/minimal)." 
 
 [[menu.main]]
     url = "/"
