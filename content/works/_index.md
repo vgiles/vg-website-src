@@ -159,7 +159,7 @@ _Feeder [2016-17]_, any treble instrument. Dur: any. Dedicated to [Alice Bennett
 
 Improvisational contexts for various ensemble/solo configurations. Ongoing work exploring the potentials of algorithmic/mathematical structures and descriptions as a basis for structured improvisation. Provided below is the syntax as a work in progress, and the current state of the pieces. Renamed from "Logarithm" to "Thread" in 2020.
 
-[Score](/scores/thread-master-typesetting.pdf)
+[Score](/scores/thread-master-typesetting.pdf) | [Thread 1](/scores/threads/thread1.pdf) | [Thread 2](/scores/threads/thread2.pdf) | [Thread 3](/scores/threads/thread3.pdf) | [Thread 4](/scores/threads/thread4.pdf) | [Thread 5](/scores/threads/thread5.pdf) | [Thread 6](/scores/threads/thread2.pdf)
 
 ### Electroacoustic
 
