@@ -18,7 +18,7 @@ I believe that an artist should reject the ego and the self as part of the makin
 <table class="table">
   <tr>
     <th></th>
-    <th><b>On Aesthetics</b>/th>
+    <th><b>On Aesthetics</b></th>
     <th></th>
   </tr>
   <tr>
