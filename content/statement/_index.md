@@ -17,8 +17,8 @@ I believe that an artist should reject the ego and the self as part of the makin
 <!--formatting dilemmas, hiding from view-->
 <table class="table">
   <tr>
-    <th><b>On Aesthetics</b></th>
     <th></th>
+    <th><b>On Aesthetics</b>/th>
     <th></th>
   </tr>
   <tr>
@@ -72,14 +72,14 @@ I believe that an artist should reject the ego and the self as part of the makin
     <td width="33%"></td>
   </tr>
   <tr>
+    <td width="33%">Drawing upon Varèse, Cage, Oliveros, and others, this approach to music-making is one of an expanded field of material that encompasses all sound from the microscopic to the macroscopic. It is possible through technology to do things that were impossible for that generation, and even the generation that came after them. It is possible, and has been for some time, through technology, to manipulate sound at the sub- sample level; at inaudible amplitudes, and/or with periods too slow or too fast for hearing. Further, any signal or data of any kind can be turned into sound, and source of activity turned into music. As Cage and others observed, the only silence, subjectively, is death. Objectively, there is none. Let listening be listening to sound, for its sound’s own sake. Let sound be itself, free from the baggage of the extra-musical, the psychological, and so on.</td>
+    <td width="33%">Drawing upon Varèse, Cage, Oliveros, and others, this approach to music-making is one of an expanded field of material that encompasses all sound from the microscopic to the macroscopic. It is possible through technology to do things that were impossible for that generation, and even the generation that came after them. It is possible, and has been for some time, through technology, to manipulate sound at the sub- sample level; at inaudible amplitudes, and/or with periods too slow or too fast for hearing. Further, any signal or data of any kind can be turned into sound, and source of activity turned into music. As Cage and others observed, the only silence, subjectively, is death. Objectively, there is none. Let listening be listening to sound, for its sound’s own sake. Let sound be itself, free from the baggage of the extra-musical, the psychological, and so on.</td>
     <td width="33%"></td>
-    <td width="33%">Drawing upon Varèse, Cage, Oliveros, and others, this approach to music-making is one of an expanded field of material that encompasses all sound from the microscopic to the macroscopic. It is possible through technology to do things that were impossible for that generation, and even the generation that came after them. It is possible, and has been for some time, through technology, to manipulate sound at the sub- sample level; at inaudible amplitudes, and/or with periods too slow or too fast for hearing. Further, any signal or data of any kind can be turned into sound, and source of activity turned into music. As Cage and others observed, the only silence, subjectively, is death. Objectively, there is none. Let listening be listening to sound, for its sound’s own sake. Let sound be itself, free from the baggage of the extra-musical, the psychological, and so on.</td>
-    <td width="33%">Drawing upon Varèse, Cage, Oliveros, and others, this approach to music-making is one of an expanded field of material that encompasses all sound from the microscopic to the macroscopic. It is possible through technology to do things that were impossible for that generation, and even the generation that came after them. It is possible, and has been for some time, through technology, to manipulate sound at the sub- sample level; at inaudible amplitudes, and/or with periods too slow or too fast for hearing. Further, any signal or data of any kind can be turned into sound, and source of activity turned into music. As Cage and others observed, the only silence, subjectively, is death. Objectively, there is none. Let listening be listening to sound, for its sound’s own sake. Let sound be itself, free from the baggage of the extra-musical, the psychological, and so on.</td>
   </tr>
     <tr>
     <td width="33%"></td>
+    <td width="33%"><b>On Working and Methodology</b></td>
     <td width="33%"></td>
-    <td width="33%"><b>On Working and Methodology</td>
   </tr>
   <tr>
     <td width="33%"></td>
