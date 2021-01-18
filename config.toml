@@ -57,30 +57,30 @@ staticDir = ["static", "static2"]
     name = "Research"
     weight = 6
 
-# [[menu.main]]
-#     url = "/teaching/"
-#     name = "Teaching"
-#     weight = 7
+[[menu.main]]
+    url = "https://faultycat.com.au"
+    name = "Production"
+    weight = 7
 
 [[menu.main]]
     url = "/curiosity/"
     name = "Curiosities"
-    weight = 7
+    weight = 8
 
 [[menu.main]]
     url = "/pleebland/"
     name = "Pleebland"
-    weight = 8
+    weight = 9
 
 [[menu.main]]
     url = "/calendar/"
     name = "Calendar"
-    weight = 9
+    weight = 10
 
 [[menu.main]]
     url = "https://filterednoisecast.wordpress.com"
     name = "Podcast"
-    weight = 10
+    weight = 11
 # Social icons to be shown on the right-hand side of the navigation bar
 # The "name" field should match the name of the icon to be used
 # The list of available icons can be found at http://fontawesome.io/icons/
