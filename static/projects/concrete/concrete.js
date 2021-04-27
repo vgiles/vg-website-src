@@ -25,27 +25,27 @@ let soundArray;
 
 function preload() {
     soundFormats('mp3');
-    sound0 = loadSound('assets/audio/mk1/Water');
-    sound1 = loadSound('assets/audio/mk1/Watercleaning');
-    sound2 = loadSound('assets/audio/mk1/Switch');
-    sound3 = loadSound('assets/audio/mk1/Saltrustle');
-    sound4 = loadSound('assets/audio/mk1/Paperrustling');
-    sound5 = loadSound('assets/audio/mk1/Panhit');
-    sound6 = loadSound('assets/audio/mk1/Hanger');
-    sound7 = loadSound('assets/audio/mk1/Chairdrop');
-    sound8 = loadSound('assets/audio/mk1/001_Bowl');
-    sound9 = loadSound('assets/audio/mk1/000_Bottle');  
+    sound0 = loadSound('assets/audio/mk2/1');
+    sound1 = loadSound('assets/audio/mk2/2');
+    sound2 = loadSound('assets/audio/mk2/3');
+    sound3 = loadSound('assets/audio/mk2/4');
+    sound4 = loadSound('assets/audio/mk2/5');
+    sound5 = loadSound('assets/audio/mk2/6');
+    sound6 = loadSound('assets/audio/mk2/7');
+    sound7 = loadSound('assets/audio/mk2/8');
+    sound8 = loadSound('assets/audio/mk2/9');
+    sound9 = loadSound('assets/audio/mk2/1');  
     soundArray = [sound0, sound1, sound2, sound3, sound4, sound5, sound6, sound7, sound8, sound9];
 }
 
 function setup() {
-  createCanvas(720, 500);
+  createCanvas(720, 400);
   reverb = new p5.Reverb();
   for (let i = 0; i < 10; i++) {
       let x = Math.floor(Math.random() * width);
       let y = Math.floor(Math.random() * height);
       let w = random(200);
-      let h = random(200);
+      let h = random(100);
       let r = random(10, 50);
       let s = soundArray[i];
       let bop = new Bork(x, y, w, h, s);
