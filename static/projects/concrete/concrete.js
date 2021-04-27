@@ -38,14 +38,15 @@ function preload() {
 }
 
 function setup() {
-  createCanvas(720, 500, WEBGL);
+  createCanvas(720, 500);
   for (let i = 0; i < 10; i++) {
-      let x = random(width/2);
-      let y = random(height/2);
+      let x = Math.floor(Math.random() * width);
+      let y = Math.floor(Math.random() * height);
       let w = random(200);
       let h = random(200);
-      let r = new Fun(x, y, w, h);
-      rectangle.push(r);
+      let r = random(10, 50);
+      let bop = new Fun(x, y, w, h);
+      rectangle.push(bop);
   }
 //   i = 0;
 //   while (i < 10) {
@@ -56,26 +57,20 @@ function setup() {
 }
 
 function draw() {
-    background(random(255), random(255), random(255));
-    for (i = 0; i < 10; i++) {
+    background(230);
+    for (i = 0; i < rectangle.length; i++) {
+        // rectangle[i].move();
         rectangle[i].display();
     }
-    noLoop();
+    // noLoop();
 }
 
 function mousePressed() {
     if (getAudioContext().state !== 'running') {
         getAudioContext().resume();
       }
-    for (i = 0; i < 10; i++) {
-        var d = dist(rectangle[i].x, rectangle[i].y, mouseX, mouseY);
-        // console.log(mouseX);
-        // console.log(mouseY);
-        // console.log(d);
-        // console.log(rectangle[i]);
-        if (d < rectangle[i].x + rectangle[i].size || d < rectangle[i].y + rectangle[i].size) {
-            rectangle[i].sound.play();
-        } 
+    for (i = 0; i < rectangle.length; i++) {
+        rectangle[i].clicked(mouseX, mouseY);
     }
     
 }
