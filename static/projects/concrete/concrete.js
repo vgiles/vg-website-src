@@ -13,6 +13,14 @@ let arrayLen; // define length variable (possibly redundant if doing in-line)
 
 // define array variable
 let soundArray;
+let border = 30;
+
+let rect1;
+let rect2;
+let rect3;
+let rect4;
+let rect5;
+let rect6;
 
 function preload() {
     soundFormats('ogg', 'mp3');
@@ -29,13 +37,35 @@ function preload() {
 }
 
 function setup() {
-  createCanvas(width, height);
-  background(200);
-  //text('tap here to play', 10, 20);
+  createCanvas(720, 500, WEBGL);
   soundArray = [sound0, sound1, sound2, sound3, sound4, sound5, sound6, sound7, sound8, sound9];
+}
+
+function draw() {
+    background(200);
+    var i = 0;
+    while (i < 10) {
+        drawSquare();
+        i++;
+    }
+    noLoop();
 }
 
 function canvasPressed() {
   arrayLen = soundArray.length; 
   soundArray[Math.floor(Math.random() * arrayLen)].play();
+}
+
+function drawSquare() {
+    rectMode(CENTER);
+    var pos1 = Math.floor(Math.random() * width/2 - width/4) + border;
+    var pos2 = Math.floor(Math.random() * height/2 - width/4) + border;
+    var rectWidth = Math.floor(Math.random() * 200);
+    var rectHeight = Math.floor(Math.random() * 200);
+    var randR = Math.floor(Math.random() * 255);
+    var randG = Math.floor(Math.random() * 255);
+    var randB = Math.floor(Math.random() * 255);
+    var randA = Math.floor(Math.random() * 255);
+    fill(randR, randG, randB, randA);
+    rect(pos1, pos2, rectWidth, rectHeight);
 }
