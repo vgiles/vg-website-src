@@ -48,7 +48,7 @@ function setup() {
       let h = random(100);
       let r = random(10, 50);
       let s = soundArray[i];
-      let bop = new Bork(x, y, w, h, s);
+      let bop = new Bork(x, y, w, h, s, r);
       rectangle.push(bop);
   }
 //   i = 0;
@@ -86,7 +86,7 @@ function mousePressed() {
 // Constructors and such
 
 class Bork {
-    constructor(x, y, w, h, s) {
+    constructor(x, y, w, h, s, r) {
         this.x = x;
         this.y = y;
         this.width = w;
@@ -96,6 +96,7 @@ class Bork {
         this.randG = random(255);
         this.randB = random(255);
         this.sound = s;
+        this.r = r;
         // this.r = r;
         // this.sound = soundArray[random(soundArray.length)];
     }
@@ -109,7 +110,7 @@ class Bork {
         var randRad = Math.floor(Math.random() * 255);
         // fill(randR, randG, randB, this.alpha);
         fill(this.randR, this.randG, this.randB, this.alpha);
-        rect(this.x, this.y, this.width, this.height);
+        rect(this.x, this.y, this.width, this.height, this.r);
         // ellipse(this.x, this.y, this.r * 2);
     }
 
