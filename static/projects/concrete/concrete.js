@@ -23,7 +23,7 @@ let rectSize2;
 let rectangle = [];
 
 function loadAudio() {
-    soundFormats('ogg', 'mp3');
+    soundFormats('mp3');
     sound0 = loadSound('assets/audio/Water');
     sound1 = loadSound('assets/audio/Watercleaning');
     sound2 = loadSound('assets/audio/Switch');
