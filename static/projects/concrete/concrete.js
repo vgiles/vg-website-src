@@ -25,21 +25,22 @@ let soundArray;
 
 function preload() {
     soundFormats('mp3');
-    sound0 = loadSound('assets/audio/Water');
-    sound1 = loadSound('assets/audio/Watercleaning');
-    sound2 = loadSound('assets/audio/Switch');
-    sound3 = loadSound('assets/audio/Saltrustle');
-    sound4 = loadSound('assets/audio/Paperrustling');
-    sound5 = loadSound('assets/audio/Panhit');
-    sound6 = loadSound('assets/audio/Hanger');
-    sound7 = loadSound('assets/audio/Chairdrop');
-    sound8 = loadSound('assets/audio/001_Bowl');
-    sound9 = loadSound('assets/audio/000_Bottle');  
+    sound0 = loadSound('assets/audio/mk1/Water');
+    sound1 = loadSound('assets/audio/mk1/Watercleaning');
+    sound2 = loadSound('assets/audio/mk1/Switch');
+    sound3 = loadSound('assets/audio/mk1/Saltrustle');
+    sound4 = loadSound('assets/audio/mk1/Paperrustling');
+    sound5 = loadSound('assets/audio/mk1/Panhit');
+    sound6 = loadSound('assets/audio/mk1/Hanger');
+    sound7 = loadSound('assets/audio/mk1/Chairdrop');
+    sound8 = loadSound('assets/audio/mk1/001_Bowl');
+    sound9 = loadSound('assets/audio/mk1/000_Bottle');  
     soundArray = [sound0, sound1, sound2, sound3, sound4, sound5, sound6, sound7, sound8, sound9];
 }
 
 function setup() {
   createCanvas(720, 500);
+  reverb = new p5.Reverb();
   for (let i = 0; i < 10; i++) {
       let x = Math.floor(Math.random() * width);
       let y = Math.floor(Math.random() * height);
@@ -65,6 +66,8 @@ function draw() {
         rectangle[i].display();
         rectangle[i].move();
     }
+    let dryWet = constrain(map(mouseX, 0, width, 0, 1), 0, 1);
+    reverb.drywet(dryWet);
     // noLoop();
 }
 
@@ -73,7 +76,7 @@ function mousePressed() {
         getAudioContext().resume();
       }
     for (i = 0; i < rectangle.length; i++) {
-        rectangle[i].clicked(mouseX, mouseY, mouseY);
+        rectangle[i].clicked(mouseX, mouseY, mouseY, mouseX);
     }
     
 }
@@ -115,10 +118,12 @@ class Bork {
         this.y = this.y + random(-5, 5);
       }
 
-    clicked(px, py, sp) {
+    clicked(px, py, sp, pos) {
         let d = dist(px, py, this.x, this.y);
-        let playbackRate = map(mouseY, 0.1, height, 2, 0);
-        playbackRate = constrain(playbackRate, 0.01, 4);
+        let playbackRate = map(sp, 0, height, 8, 0);
+        playbackRate = constrain(playbackRate, -8, 8);
+        let panPos = map(pos, 0, width, -1, 1);
+        panPos = constrain(panPos, 0, width);
         // let d2 = dist(this.x, this.y, this.width * 2, this.height * 2);
         // console.log(d);
         // console.log(d2);
@@ -127,8 +132,10 @@ class Bork {
             this.randR = random(255);
             this.randG = random(255);
             this.randB = random(255);
-            this.sound.play();
+            reverb.process(this.sound);
+            this.sound.pan(panPos);
             this.sound.rate(playbackRate);
+            this.sound.play();
         }
         // this.sound.play();
     }
