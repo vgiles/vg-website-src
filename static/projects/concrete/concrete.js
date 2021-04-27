@@ -1,4 +1,15 @@
 // define all the sounds for individual loading
+
+
+
+
+let rectPos1;
+let rectPos2;
+let rectSize1;
+let rectSize2;
+
+let rectangle = [];
+
 let sound0;
 let sound1;
 let sound2;
@@ -9,20 +20,9 @@ let sound6;
 let sound7;
 let sound9;
 let sound8;
-let arrayLen; // define length variable (possibly redundant if doing in-line)
-
-// define array variable
 let soundArray;
-let border = 30;
 
-let rectPos1;
-let rectPos2;
-let rectSize1;
-let rectSize2;
-
-let rectangle = [];
-
-function loadAudio() {
+function preload() {
     soundFormats('mp3');
     sound0 = loadSound('assets/audio/Water');
     sound1 = loadSound('assets/audio/Watercleaning');
@@ -33,63 +33,49 @@ function loadAudio() {
     sound6 = loadSound('assets/audio/Hanger');
     sound7 = loadSound('assets/audio/Chairdrop');
     sound8 = loadSound('assets/audio/001_Bowl');
-    sound9 = loadSound('assets/audio/000_Bottle');
+    sound9 = loadSound('assets/audio/000_Bottle');  
+    soundArray = [sound0, sound1, sound2, sound3, sound4, sound5, sound6, sound7, sound8, sound9];
 }
 
 function setup() {
   createCanvas(720, 500, WEBGL);
+  for (let i = 0; i < 10; i++) {
+      let x = random(width/2);
+      let y = random(height/2);
+      let w = random(200);
+      let h = random(200);
+      let r = new Fun(x, y, w, h);
+      rectangle.push(r);
+  }
+//   i = 0;
+//   while (i < 10) {
+//       rectangle[i] = new Fun();
+//       rectangle[i].sound = soundArray[i];
+//       i++;
+//   }  
 }
 
 function draw() {
-    background(250, 200, 150);
-    loadAudio();
-    // getAudioContext().resume()
-    soundArray = [sound0, sound1, sound2, sound3, sound4, sound5, sound6, sound7, sound8, sound9];
-    var i = 0;
-    while (i < 10) {
-        drawSquare();
-        i++;
-        rectangle[i] = [rectPos1, rectPos2, rectSize1, rectSize2];
-        // alert(rectangle[i]);
+    background(random(255), random(255), random(255));
+    for (i = 0; i < 10; i++) {
+        rectangle[i].display();
     }
     noLoop();
 }
-
-// function canvasPressed() {
-//  AudioContext.resume();
-// }
 
 function mousePressed() {
     if (getAudioContext().state !== 'running') {
         getAudioContext().resume();
       }
-    for (var i = 0; i < 10; i++) {
-        var d = dist(mouseX, mouseY, rectangle[i][0]/2, rectangle[i][1]/2);
-        if (d < rectangle[i][2] || d < rectangle[i][3]) {
-            arrayLen = soundArray.length; 
-            soundArray[Math.floor(Math.random() * arrayLen)].play();
-        }
+    for (i = 0; i < 10; i++) {
+        var d = dist(rectangle[i].x, rectangle[i].y, mouseX, mouseY);
+        // console.log(mouseX);
+        // console.log(mouseY);
+        // console.log(d);
+        // console.log(rectangle[i]);
+        if (d < rectangle[i].x + rectangle[i].size || d < rectangle[i].y + rectangle[i].size) {
+            rectangle[i].sound.play();
+        } 
     }
+    
 }
-
-function drawSquare() {
-    rectMode(CENTER);
-    var pos1 = Math.floor(Math.random() * width/2 - width/4) + border;
-    var pos2 = Math.floor(Math.random() * height/2 - width/4) + border;
-    var rectWidth = Math.floor(Math.random() * 200);
-    var rectHeight = Math.floor(Math.random() * 200);
-    var randR = Math.floor(Math.random() * 255);
-    var randG = Math.floor(Math.random() * 255);
-    var randB = Math.floor(Math.random() * 255);
-    var randA = Math.floor(Math.random() * 255);
-    fill(randR, randG, randB, randA);
-    rect(pos1, pos2, rectWidth, rectHeight);
-    rectPos1 = pos1;
-    rectPos2 = pos2;
-    rectSize1 = rectWidth;
-    rectSize2 = rectHeight;
-}
-
-// function touchStarted() {
-
-//   }
