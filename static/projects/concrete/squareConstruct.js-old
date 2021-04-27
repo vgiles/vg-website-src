@@ -1,13 +1,13 @@
-let border = 30;
 
 
 class Fun {
-    constructor(x, y, w, h) {
+    constructor(x, y, w, h, s) {
         this.x = x;
         this.y = y;
         this.width = w;
         this.height= h;
         this.alpha = random(255);
+        this.sound = s;
         // this.r = r;
         // this.sound = soundArray[random(soundArray.length)];
     }
@@ -35,8 +35,9 @@ class Fun {
         // let d2 = dist(this.x, this.y, this.width * 2, this.height * 2);
         // console.log(d);
         // console.log(d2);
-        if (d < ???) {
+        if (d < this.width && d < this.height) {
             this.alpha = random(400);
+            this.sound.play();
         }
         // this.sound.play();
     }
