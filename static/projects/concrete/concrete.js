@@ -15,14 +15,14 @@ let arrayLen; // define length variable (possibly redundant if doing in-line)
 let soundArray;
 let border = 30;
 
-let rect1;
-let rect2;
-let rect3;
-let rect4;
-let rect5;
-let rect6;
+let rectPos1;
+let rectPos2;
+let rectSize1;
+let rectSize2;
 
-function preload() {
+let rectangle = [];
+
+function loadAudio() {
     soundFormats('ogg', 'mp3');
     sound0 = loadSound('assets/audio/Water');
     sound1 = loadSound('assets/audio/Watercleaning');
@@ -38,22 +38,38 @@ function preload() {
 
 function setup() {
   createCanvas(720, 500, WEBGL);
-  soundArray = [sound0, sound1, sound2, sound3, sound4, sound5, sound6, sound7, sound8, sound9];
 }
 
 function draw() {
-    background(200);
+    background(250, 200, 150);
+    loadAudio();
+    // getAudioContext().resume()
+    soundArray = [sound0, sound1, sound2, sound3, sound4, sound5, sound6, sound7, sound8, sound9];
     var i = 0;
     while (i < 10) {
         drawSquare();
         i++;
+        rectangle[i] = [rectPos1, rectPos2, rectSize1, rectSize2];
+        // alert(rectangle[i]);
     }
     noLoop();
 }
 
-function canvasPressed() {
-  arrayLen = soundArray.length; 
-  soundArray[Math.floor(Math.random() * arrayLen)].play();
+// function canvasPressed() {
+//  AudioContext.resume();
+// }
+
+function mousePressed() {
+    if (getAudioContext().state !== 'running') {
+        getAudioContext().resume();
+      }
+    for (var i = 0; i < 10; i++) {
+        var d = dist(mouseX, mouseY, rectangle[i][0]/2, rectangle[i][1]/2);
+        if (d < rectangle[i][2] || d < rectangle[i][3]) {
+            arrayLen = soundArray.length; 
+            soundArray[Math.floor(Math.random() * arrayLen)].play();
+        }
+    }
 }
 
 function drawSquare() {
@@ -68,4 +84,12 @@ function drawSquare() {
     var randA = Math.floor(Math.random() * 255);
     fill(randR, randG, randB, randA);
     rect(pos1, pos2, rectWidth, rectHeight);
+    rectPos1 = pos1;
+    rectPos2 = pos2;
+    rectSize1 = rectWidth;
+    rectSize2 = rectHeight;
 }
+
+// function touchStarted() {
+
+//   }
