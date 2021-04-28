@@ -123,8 +123,8 @@ class Bork {
 
     clicked(px, py, sp, pos) {
         let d = dist(px, py, this.x, this.y);
-        let playbackRate = map(sp, 0, height, 8, 0);
-        playbackRate = constrain(playbackRate, -8, 8);
+        let playbackRate = map(sp, 0, height, 2, 0);
+        playbackRate = constrain(playbackRate, 0.01, 8);
         let panPos = map(pos, 0, width, -1, 1);
         panPos = constrain(panPos, 0, width);
         // let d2 = dist(this.x, this.y, this.width * 2, this.height * 2);
