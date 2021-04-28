@@ -117,6 +117,8 @@ class Bork {
     move() {
         this.x = this.x + random(-5, 5);
         this.y = this.y + random(-5, 5);
+        this.width = this.width + random(-10, 10);
+        this.height = this.height + random(-10, 10);
       }
 
     clicked(px, py, sp, pos) {
