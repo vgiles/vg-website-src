@@ -78,7 +78,6 @@ function mousePressed() {
     for (i = 0; i < rectangle.length; i++) {
         rectangle[i].clicked(mouseX, mouseY, mouseY, mouseX);
     }
-    
 }
 
 
@@ -139,6 +138,12 @@ class Bork {
             this.sound.pan(panPos);
             this.sound.rate(playbackRate);
             this.sound.play();
+            let randNum = random(0, 2);
+            if (randNum > 1) {
+                this.sound.reverseBuffer();
+            } else {
+                this.sound.setVolume(random(0, 1), random(0, 1000), random(0, 1000));
+            }
         }
         // this.sound.play();
     }
