@@ -18,4 +18,6 @@ These pieces will require an internet connection to initially load. They tend to
 
 **score** [Concrete Squares](/projects/concrete/index.html) - An interactive, visual, audio performance score/instrument/thing (2021).
 
+**score** [Blorbs](/projects/blorbs/index.html) - An interactive, visual, audio, thing that is a kind of variation on a theme of Concrete Squares. (2021)
+
 **visual** [Žižek Square](/projects/text/1/) - A square that quotes parts of a short paragraph from Žižek's _the Sublime Object of Ideology (1989)_ (2019).
