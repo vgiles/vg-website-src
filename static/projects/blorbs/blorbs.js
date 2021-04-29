@@ -2,7 +2,7 @@ let sounds = [];
 let blorb;
 let value;
 let blorbs = [];
-let totalBlorbs = 50;
+let totalBlorbs = 25;
 function preload() {
     for (i = 1; i <= 10; i++) {
         sounds[i] = loadSound('audio/' + String(i) + '.mp3');
