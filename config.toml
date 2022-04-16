@@ -93,7 +93,7 @@ googleAnalytics = "G-ZMPDSXX8FZ"
 
 [[menu.icon]]
     url = "https://fcpvg.work"
-    name = "pen"
+    name = "pencil"
     weight = 2
 
 [[menu.icon]]
