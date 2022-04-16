@@ -78,10 +78,10 @@ googleAnalytics = "G-ZMPDSXX8FZ"
     name = "Calendar"
     weight = 10
 
-[[menu.main]]
-    url = "https://fcpvg.work"
-    name = "Writing"
-    weight = 11
+# [[menu.main]]
+#     url = "https://fcpvg.work"
+#     name = "Writing"
+#     weight = 11
 # Social icons to be shown on the right-hand side of the navigation bar
 # The "name" field should match the name of the icon to be used
 # The list of available icons can be found at http://fontawesome.io/icons/
