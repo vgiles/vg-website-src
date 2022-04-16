@@ -92,8 +92,8 @@ googleAnalytics = "G-ZMPDSXX8FZ"
     weight = 1
 
 [[menu.icon]]
-    url = "https://github.com/vgiles/"
-    name = "github"
+    url = "https://fcpvg.work"
+    name = "pen-nib"
     weight = 2
 
 [[menu.icon]]
@@ -110,3 +110,13 @@ googleAnalytics = "G-ZMPDSXX8FZ"
     url = "https://www.instagram.com/composervince"
     name = "instagram"
     weight = 5
+
+[[menu.icon]]
+    url = "https://www.youtube.com/channel/UCetK4sSbDcRIc8_xTSyHv6Q"
+    name = "youtube"
+    weight = 6
+
+[[menu.icon]]
+    url = "https://www.youtube.com/channel/UCKQY58ILQCvmDcJupHeKS7w"
+    name = "youtube-square"
+    weight = 7
