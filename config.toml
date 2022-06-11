@@ -26,7 +26,7 @@ googleAnalytics = "G-ZMPDSXX8FZ"
     featureCMP = "Vincent Giles" #composer
     featureTITLE = "when" #title
     featureYEAR = "2021" #year of composition
-    copyright = "&copy; 2020 Vincent Giles, all rights reserved. Powered by [Hugo](https://gohugo.io) and [Minimal](https://github.com/calintat/minimal)." 
+    copyright = "&copy; 2022 Vincent Giles, all rights reserved. Powered by [Hugo](https://gohugo.io) and [Minimal](https://github.com/calintat/minimal). <p>I acknowledge the Wurundjeri Woi-wurrung people as the true and rightful custodians of the Country on which I live and work. As an uninvited guest on this Country, I acknowledge the great loss of people and knowledge caused by the European colonial project(s). I pay respect to Elders past, present, and emerging, and extend that respect to all First Nations peoples.</p>" 
 
 [[menu.main]]
     url = "/"
