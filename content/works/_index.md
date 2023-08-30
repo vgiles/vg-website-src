@@ -27,6 +27,12 @@ _Etude Microscopique [2010],_ solo bass flute. For Alice Bennett. Dur: c. 4'00".
 _a process, delicate and violent [2017]_, solo alto flute. Commissioned and for Eric Lamb. Dur: 9'00".  
 [Score](https://www.australianmusiccentre.com.au/workversion/giles-vincent-process-delicate-and-violent/32979)
 
+#### Piano
+
+_Six Figures Signifying Decay [2022]_. Piano with electronics (non-performed). Dur: c. 6'.
+Please contact for electronics. Premiered by Brieley Cutting at the Australian Institute of Music, 2022.
+[Score](/scores/sf-06.pdf)
+
 #### Violin
 
 _silver as catalyst in organic reactions [2014-16]_, baroque violin. For Lizzy Welsh. Dur: c. 6'00".     
@@ -85,6 +91,11 @@ Score: currently being edited for publication, please contact.
 
 _End to Reattain [2016]_ (structured improvisation). Dur: 20'.    
 [Score][21] | [Recording][22] (Giles/Welsh)
+
+#### Voice and Piano
+_The Moth and the Flame [2023]_. Dur: 9'. 
+Under revision, please contact. 
+Premiered at Newcastle Fringe Festival 2023 by Fragments Ensemble with Mark Oliveiro. 
 
 ### Trio
 
