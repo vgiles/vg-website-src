@@ -74,8 +74,8 @@ googleAnalytics = "G-ZMPDSXX8FZ"
     weight = 9
 
 [[menu.main]]
-    url = "/calendar/"
-    name = "Calendar"
+    url = "https://fcpvg.work"
+    name = "Writing/Blog"
     weight = 10
 
 # [[menu.main]]
