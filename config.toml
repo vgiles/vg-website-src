@@ -3,8 +3,8 @@ languageCode             = "en-us"
 defaultContentLanguage   = "en"
 isMultilingual           = false
 title                    = "vincent giles - composer"
-theme                    = "github.com/victoriadrake/hugo-theme-sam"    # pull in theme as hugo module 
-# theme                  = "sam"                      # install theme locally (git clone or submodule)
+# theme                    = "github.com/victoriadrake/hugo-theme-sam"    # pull in theme as hugo module 
+theme                    = "sam"                      # install theme locally (git clone or submodule)
 pygmentsStyle            = "monokai"                        # https://help.farbox.com/pygments.html
 pygmentsCodefences       = true
 # googleAnalytics        = ""                               # Tracking code, eg. "UA-111111111-1"
@@ -12,9 +12,9 @@ pygmentsCodefences       = true
 [params]
     dateform             = "Mon Jan 02, 2006"
     dateformfull         = "Mon Jan 2 2006 15:04:05 EST"
-    favicon              = "sam.ico"
+    favicon              = "vg.ico"
     homepage             = "home"                           # What to call the home page link, link will not be rendered if empty
-    footerText           = "Copyright 2024 Vincent Giles :: Call me Sam, a theme for Hugo."
+    footerText           = "Copyright 2024 Vincent Giles :: Powered by Hugo, theme 'Call me Sam' by Victoria Drake"
 
 # Metadata for Open Graph and Twitter
     description          = "Vincent Giles is an Australian composer based in Naarm (Melbourne) whose music focuses on the boundaries of perception and instability."               # Max 160 characters show in search results
@@ -23,15 +23,16 @@ pygmentsCodefences       = true
     # rss                = ""
 
 [[params.videoBackground.sources]]
-    source  = "/sample_video.mp4"
+    source  = "/website-test-3.mov"
     type    = "video/mp4"
-    poster  = "/background.png"
+    poster  = "/hero-draft-transparent-emb.png"
 [params.videoBackground]
-    overlay = "rgba(0, 0, 0, 0.4)" # optional
+    # overlay = "rgba(17, 16, 17, 0.8)" # optional
+    overlay = "rgb(153, 51, 102, 0.2)"
 
 [[params.mainMenu]]
-    link = "https://fcpvg.work"
-    text = "blog"
+    link = "about"
+    text = "about"
 
 [[params.mainMenu]]
     link = "works"
@@ -42,8 +43,12 @@ pygmentsCodefences       = true
     text = "production"
 
 [[params.mainMenu]]
-    link = "about"
-    text = "who is vincent?"
+    link = "https://fcpvg.work"
+    text = "writing"
+
+[[params.mainMenu]]
+    link = "contact"
+    text = "contact"
 
 [imaging]
     quality = 75

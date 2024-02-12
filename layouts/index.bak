@@ -1,0 +1,27 @@
+{{ partial "header" . }}
+
+<main>
+
+    <div class="intro">
+        {{ with .Site.Params.profilePic }} <img class="profile" src="{{ . }}"> {{ end }}
+        <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1406374170/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://vincentgiles.bandcamp.com/album/when">when by Vincent Giles</a></iframe>
+        {{ .Site.Params.featureCMP }} - <i>{{ .Site.Params.featureTITLE }}</i> ({{ .Site.Params.featureYEAR }})
+        <h1>{{ .Site.Title }}</h1>
+        
+        <!-- <h2><a href="/works/">Composer</a> | <a href="/about/">Performer</a> | <a href="/research/">Scholar</a></h2><br/> -->
+        <p>Vincent Giles is a <a href="/works/">composer</a> and <a href="https://www.faultycat.com.au">producer</a> of exploratory music, a <a href="/about/">performer</a>, and a <a href="/research/">scholar</a>.</p>
+        <!-- <p>   <script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script><script>
+            kofiWidgetOverlay.draw('vgiles', {
+              'type': 'floating-chat',
+              'floating-chat.donateButton.text': 'Support me',
+              'floating-chat.donateButton.background-color': '#ff38b8',
+              'floating-chat.donateButton.text-color': '#fff'
+            });
+          </script></p> -->
+        <!-- Feature thing on landing page -->
+    </div>
+
+</main>
+
+{{ partial "footer" . }}
+

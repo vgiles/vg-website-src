@@ -4,54 +4,21 @@ date: 2019-06-06
 type: "new"
 layout: "single"
 ---
-[View recent academic CV (updated 15/6/2019)](VG_CV.pdf)<br />
-
-<!--I was born in the green and leafy outer-eastern suburbs of Melbourne in 1985, and spent my early years in the middle of alpine forest in north-east Victoria. Now I spend my time as a composer: a tinkerer with acoustic and electronic sound in the context of concert music, electronic music, installation, and performance. Whatever form my work takes, it is usually influenced by the natural world, science and mathematics, and self-imposed compositional limitations; I see music as a type of perception and manifestation of already-existent natural phenomena and relationships, in the same way that mathematics is a notation of natural relationships and so attempt to express the most elegant form of the observed relationships. Prior to studying composition I was a bass player who grew disgruntled with the culturally-defined stylistic limitations of the instrument, and, having worked primarily in jazz and popular musics, the adherence to traditional notions of pitch, rhythm, and form that result in severe aesthetic and creative limitations – not the desirable kind!
-
-_"Vincent Giles' new piece, IMPULSE gave a new 21st century voice to field recordings, mostly gathered from his recent trip to Europe, flourishing and melding in a unsettled but vibrant electroacoustic language."_  
-_— Ian Parsons, PBS FM 106.7_
-
-Of the sciences, I am most interested in physics and biology, both of which had a profound impact on my doctoral research into the philosophic application of memetic evolution by Darwinian natural selection to the transmission of intention from a composer to audience. In short: a deterministic model of creativity based on natural selection and the dispersion of those ideas in a population through music. In this and other contexts I have been described as a "materialist" and as "relentlessly reductionist", and I quite like that. Indeed, I think that is what both the arts and the world needs more of in this era of so-called "fake news" and new-age, pseudo-scientific beliefs.
-
-_"What is clear is that Giles' music is often intimately linked to the setting in which it is appreciated: there is an intentional blurring of the distinction between the content of the piece and the ambient noise of the space."_  
-_ – Jennifer Hauptman, Buzzcuts_
-
-Over the past five or so years, all of this has lead me to what I have taken to calling _polyphony of form_, meaning that in a piece, there are often multiple structural forms superimposed, counterpointed against one another and interacting in tumultuous ways. In many ways this reflects the often clashing, often claustrophobic, and nearly always busy world we live in, and the incredibly complex interactions of things like particles, planets, galaxies, atoms, people, chemicals, and so forth. These interactions – relationships – can be described using many forms; mathematics being common, but in my case: music and related works. This comes from the sciences and an attempt to understand the world through science (though I am no scientist), and a fascination with the elegance of good mathematics, but also from the counterpoint of Bach, integral serialism, and the French spectral tradition, and especially from the world of computer and electroacoustic music, where form and structure relate very strongly from the micro scale to the macro, and things like rhythm and pitch are free and can be manipulated at the level of the individual sample. This is exciting! The forms of the future should be liberated from the past completely, and the relationship between material and form more thoroughly explored.
-
-_"Vincent Giles' Differing Dialogues is another adventure through the wilder sounds that the low flutes bring to the table … [He] paints an amazing landscape exploiting so many of the wondrous extended techniques offered by the instrumentation."_  
-_– Shaun Barlow, flutetutor.com.au_
-
-I am one of the Artistic Directors for the [Tilde New Music Festival][2], a biennial festival and academy that provides a platform for experimentation and collaboration in an informal, public setting. I am an Academic Lecturer at the Australian Institute of Music, am represented by the Australian Music Centre, my scores are published by [Wirripang][3] for whom I am also on the peer-review panel. I have studied with a bunch of people, but would prefer not to list them here. Outside music, I enjoy cooking and blogging about vegan food, drinking coffee and craft beer (not at the same time), pretending to garden, reading, and being a part-time recluse.
-
-#### Short Bio (~250 words, third person)
-
-Born in 1985, Vincent Giles is a composer; a tinkerer with acoustic and electronic sound in the context of concert music, electronic music, installation, and performance. His works are influenced by the natural world, science and mathematics, and self-imposed compositional limitations, and he sees music as a type of manifestation of already-existent natural phenomena and relationships, similar to how mathematics is often a notational form of those same relationships. Reflecting his fascination with things like particles, galaxies, atoms, chemicals, biological systems, and so on, his work often employs what he called _polyphony of form_, meaning that in a work there are often multiple structural forms superimposed, counterpointed against one another, interacting in tumultuous ways.
-
-He is one of two Artistic Directors for the Tilde New Music Festival, a yearly festival and academy that provides a platform for experimentation and collaboration in new music, teaches composition at the Australian Institute of Music, is represented by the Australian Music Centre, and is published by – and on the review panel for – Wirripang. Vincent has studied with a heap of composers and performers over the years, but would prefer not to mention them here. Outside music, he enjoys cooking and blogging about vegan food, drinking coffee and craft beer (not at the same time), pretending to garden, reading, and being a part-time recluse.
-
-#### Shortest Version (~100 words, third person)-->
-
-<!-- Vincent is a composer and [producer](https://www.faultycat.com.au) of exploratory music. Through exploratory musicking, he hopes to reflect the emergent complexity of the world we live in and give space to contemplate the interdependence we all share. He works with acoustic and electronic sound in the context of concert music, electronic music, installation, and improvised performance that is inspired by code, the natural world, mathematics, and science.
-
-In 2017 Vincent was awarded a PhD for speculative research into microsound and memetics. Throughout his education he has studied or had lessons with: [Thomas Reiner](https://thomasreiner.com.au), [Peter McIlwain](http://bentnail.art), [Myles Mumford](https://mylesmumford.com), [Beat Furrer](http://www.beatfurrer.com), [Chaya Czernowin](http://chayaczernowin.com), [Richard Barrett](https://richardbarrettmusic.com), [Peter Plessas](https://plessas.mur.at), and [Georg Friedrich Haas](https://music.columbia.edu/bios/georg-friedrich-haas). He has worked with many people and ensembles, including but not limited to: [Lizzy Welsh](https://www.lizzywelsh.com), [Eric Lamb](https://www.ericlambflutist.com/profile.html), [Alice Bennett](https://www.alicebennett.net), [Peter Sheridan](https://www.marriedflutes.net/peter), [dissonArt ensemble](https://www.dissonart.gr/en/), [Chicago Modern Orchestra Project](https://www.dissonart.gr/en/), and runs an improvisation collective called [Pleebland](https://www.vgiles.net/pleebland/).
-
-Together with sound artist Alice Bennett, Vincent founded [Tilde New Music and Sound Art Inc.](https://www.tilde.net.au), an organisation dedicated to the promotion and support of contemporary art music and related practices of our time. He is the current Vice-President and Treasurer of the Tilde organisation, and Treasurer of the [Australasian Computer Music Association](https://www.computermusic.org.au). Previously, Vincent was co-Director, Manager, and co-Producer of the Tilde New Music Festival and Academy events.
-
-Vincent is a lecturer in Composition and Music Production at the Australian Institute of Music. He has previously been a lecturer in Critical Studies at Collarts, and a Teaching Associate in Composition at Monash University. He has works recorded on Move Records, published through Wirripang, and held at the Australian Music Centre. -->
+![Vincent Giles Image](/assets/img/giles_promo-modified240212-tiny.png)
+Photo by Emily Churchill.
 
 Vincent Giles (Melbourne, 1985) is active in composition, improvisation, and installation art, and is informed by the physical properties of sound, experimental music, and technology. Vincent's work explores the boundaries of perception and performance, with particular focus on microsound and human or machine errors. Current projects include a long work for solo classical guitar, an installation piece that tracks skeleton movement with a phone camera, and developing a live-coding practice.
 Recently completed projects include *The Moth and the Flame* for piano and voice, staged at Newcastle Fringe Festival in 2023 and *six figures signifying decay* for piano and electronics staged at Sydney Fringe Festival 2023. Vincent's notated work is published by Wirripang Australia and the Australian Music Centre, and has been recorded for Move Records. He co-founded and co-directed the Tilde New Music Festival and Academy since 2013, and currently serves on the executive committee of the Australasian Computer Music Association.
 
-![Vincent Giles Image](avatar2.png)
+![Notation Hero Image](/assets/img/hero-draft-transparent-emb.png)
 
-Photo by Emily Churchill.
+_"Vincent Giles' new piece, IMPULSE gave a new 21st century voice to field recordings, mostly gathered from his recent trip to Europe, flourishing and melding in a unsettled but vibrant electroacoustic language."_  
+_— Ian Parsons, PBS FM 106.7_
 
-![Vincent Giles Image](vg_yenice_small.png)
+_"What is clear is that Giles' music is often intimately linked to the setting in which it is appreciated: there is an intentional blurring of the distinction between the content of the piece and the ambient noise of the space."_  
+_ – Jennifer Hauptman, Buzzcuts_
 
-Photo by Josh Yenice (~6.8mb PNG) [Download High Resolution](vg_yenice.png)
-
-[1]: https://vincentgiles.bandcamp.com/album/post-hoc-ergo-propter-hoc
-[2]: http://www.tilde.net.au
-[3]: http://www.wirripang.com.au
+_"Vincent Giles' Differing Dialogues is another adventure through the wilder sounds that the low flutes bring to the table … [He] paints an amazing landscape exploiting so many of the wondrous extended techniques offered by the instrumentation."_  
+_– Shaun Barlow, flutetutor.com.au_
 
   
