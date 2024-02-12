@@ -14,7 +14,8 @@ pygmentsCodefences       = true
     dateformfull         = "Mon Jan 2 2006 15:04:05 EST"
     favicon              = "favicon.ico"
     homepage             = "home"                           # What to call the home page link, link will not be rendered if empty
-    footerText           = "Copyright 2024 Vincent Giles :: Powered by Hugo, theme 'Call me Sam' by Victoria Drake"
+    footerText           = "Copyright 2024 Vincent Giles ::"
+    acknowledgement      = "I live and work on stolen Wurundjeri Country in Naarm, Melbourne. As an uninvited guest I acknowledge the great loss caused by colonisation. Sovereignty has never been ceded."
 
 # Metadata for Open Graph and Twitter
     description          = "Vincent Giles is an Australian composer based in Naarm (Melbourne) whose music focuses on the boundaries of perception and instability."               # Max 160 characters show in search results
@@ -48,7 +49,7 @@ pygmentsCodefences       = true
 
 [[params.mainMenu]]
     link = "contact"
-    text = "contact"
+    text = "contact/social"
 
 [imaging]
     quality = 75
