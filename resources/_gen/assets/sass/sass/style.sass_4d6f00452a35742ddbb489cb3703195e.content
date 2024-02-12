@@ -5,7 +5,7 @@
   box-sizing: border-box; }
 
 html {
-  background-color: #39424E;
+  background-color: #452D33;
   font-family: "Didact Gothic", "sans serif";
   font-size: 16px; }
 
@@ -180,7 +180,7 @@ article {
     opacity: 1; }
   article blockquote {
     background-color: #cccccc;
-    color: #39424E;
+    color: #452D33;
     padding: 2rem;
     margin: 2rem 1rem 2rem 1rem;
     border-radius: 3px; }
