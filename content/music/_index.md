@@ -1,10 +1,12 @@
 ---
-title: "Works List"
+title: "List of Musical Works"
 date: 2019-06-06
 type: "new"
 layout: "single"
 ---
-This page contains a list of works by loose category. If the score is unavailable and you would like to get a copy, please [email me](/contact)
+This page contains a list of works by loose category. If the score is unavailable and you would like to get a copy, please [email me](/contact).
+
+I am available for commissions and collaboration, why not [get in touch?](/contact)
 
 - [Solo](#solo)
   - [Voice](#voice)

@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "About Vincent"
 date: 2019-06-06
 type: "new"
 layout: "single"
@@ -9,7 +9,7 @@ Photo by Emily Churchill - click image for high resolution
 
 # Biography
 
-Vincent Giles (Melbourne, 1985) is an Australian composer based in Naarm (Melbourne). His music explores the boundaries of perception, instability, and errors produced by both humans and machines. 
+Vincent Giles (Melbourne, 1985) is an Australian composer based in Naarm (Melbourne). His music explores the boundaries of perception, instability, and the glitches produced by both humans and machines. 
 
 ---
 
@@ -23,7 +23,7 @@ Recently completed projects include *The Moth and the Flame* for piano and voice
 
 ![Notation Hero Image](/assets/img/hero-draft-transparent-emb.png)
 
-*"For Vincent, truth and, from it, musical authenticity, comes not from the mystical or the subjective but from the search to be informed about the world and about the media with which the musician works. "*
+*"For Vincent, truth and, from it, musical authenticity, comes not from the mystical or the subjective but from the search to be informed about the world and about the media with which the musician works."*
 — Ian Parsons, PBS FM 106.7 (The Sound Barrier)
 
 *"What is clear is that Giles' music is often intimately linked to the setting in which it is appreciated: there is an intentional blurring of the distinction between the content of the piece and the ambient noise of the space."*

@@ -18,7 +18,7 @@ pygmentsCodefences       = true
     acknowledgement      = "I live and work on stolen Wurundjeri Country in Naarm, Melbourne. As an uninvited guest I acknowledge the great loss caused by colonisation. Sovereignty has never been ceded."
 
 # Metadata for Open Graph and Twitter
-    description          = "Vincent Giles is an Australian composer based in Naarm (Melbourne) whose music focuses on the boundaries of perception and instability."               # Max 160 characters show in search results
+    description          = "Vincent Giles is an Australian composer based in Naarm (Melbourne) whose music focuses on the boundaries of perception, instability, and human/machine glitches"               # Max 160 characters show in search results
     images               = ["tn.png"]                       # Image that shows on Twitter cards and Open Graph links to the site
     title                = "vincent giles - composer"
     # rss                = ""
@@ -33,15 +33,15 @@ pygmentsCodefences       = true
 
 [[params.mainMenu]]
     link = "about"
-    text = "about"
+    text = "who's vincent?"
 
 [[params.mainMenu]]
-    link = "works"
-    text = "works"
+    link = "music"
+    text = "music"
 
 [[params.mainMenu]]
     link = "https://faultycat.com.au"
-    text = "production"
+    text = "audio production"
 
 [[params.mainMenu]]
     link = "https://fcpvg.work"
