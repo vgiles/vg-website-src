@@ -1,7 +1,7 @@
 baseURL = "https://vgiles.net/"
 languageCode = "en-us"
 title = "Vincent Giles"
-theme = "minimal"
+theme = "pico"
 staticDir = ["static", "static2"]
 googleAnalytics = "G-ZMPDSXX8FZ"
 
