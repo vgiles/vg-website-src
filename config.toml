@@ -1,122 +1,49 @@
-baseURL = "https://vgiles.net/"
-languageCode = "en-us"
-title = "Vincent Giles"
-theme = "pico"
-staticDir = ["static", "static2"]
-googleAnalytics = "G-ZMPDSXX8FZ"
-
-[markup]
-  defaultMarkdownHandler = "goldmark"
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true
+baseurl                  = "https://vgiles.net"           # Your domain name
+languageCode             = "en-us"
+defaultContentLanguage   = "en"
+isMultilingual           = false
+title                    = "vincent giles - composer"
+theme                    = "github.com/victoriadrake/hugo-theme-sam"    # pull in theme as hugo module 
+# theme                  = "sam"                      # install theme locally (git clone or submodule)
+pygmentsStyle            = "monokai"                        # https://help.farbox.com/pygments.html
+pygmentsCodefences       = true
+# googleAnalytics        = ""                               # Tracking code, eg. "UA-111111111-1"
 
 [params]
-    author = "Vincent Giles"
-    description = "Composer : Performer : Scholar : Producer"
-    githubUsername = "vgiles"
-    accent = "grey"
-    showBorder = true
-    backgroundColor = "#f2f2f2"
-    font = "Fira Sans" # should match the name on Google Fonts!
-    highlight = true
-    highlightStyle = "solarized-dark"
-    highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift"]
-    featureURL = "https://www.youtube.com/embed/j6LbX4E-EHo"  #copy embed code here -- not working, but the other parts do. To feature you need to insert the iframe embed within index.html
-    featureCMP = "Vincent Giles" #composer
-    featureTITLE = "when" #title
-    featureYEAR = "2021" #year of composition
-    copyright = "&copy; 2022 Vincent Giles, all rights reserved. Powered by [Hugo](https://gohugo.io) and [Minimal](https://github.com/calintat/minimal). <p>I acknowledge the Wurundjeri Woi-wurrung people as the true and rightful custodians of the Country on which I live and work. As an uninvited guest on this Country, I acknowledge the great loss of people and knowledge caused by the European colonial project(s). I pay respect to Elders past, present, and emerging, and extend that respect to all First Nations peoples.</p>" 
+    dateform             = "Mon Jan 02, 2006"
+    dateformfull         = "Mon Jan 2 2006 15:04:05 EST"
+    favicon              = "sam.ico"
+    homepage             = "home"                           # What to call the home page link, link will not be rendered if empty
+    footerText           = "Copyright 2024 Vincent Giles :: Call me Sam, a theme for Hugo."
 
-[[menu.main]]
-    url = "/"
-    name = "Home"
-    weight = 1
+# Metadata for Open Graph and Twitter
+    description          = "Vincent Giles is an Australian composer based in Naarm (Melbourne) whose music focuses on the boundaries of perception and instability."               # Max 160 characters show in search results
+    images               = ["tn.png"]                       # Image that shows on Twitter cards and Open Graph links to the site
+    title                = "vincent giles - composer"
+    # rss                = ""
 
-[[menu.main]]
-    url = "/about/"
-    name = "About"
-    weight = 2
+[[params.videoBackground.sources]]
+    source  = "/sample_video.mp4"
+    type    = "video/mp4"
+    poster  = "/background.png"
+[params.videoBackground]
+    overlay = "rgba(0, 0, 0, 0.4)" # optional
 
-[[menu.main]]
-    url = "/statement/"
-    name = "Statement"
-    weight = 3
+[[params.mainMenu]]
+    link = "https://fcpvg.work"
+    text = "blog"
 
-[[menu.main]]
-    url = "/cds/"
-    name = "Releases"
-    weight = 4
+[[params.mainMenu]]
+    link = "works"
+    text = "works"
 
-[[menu.main]]
-    url = "/works/"
-    name = "Works"
-    weight = 5
+[[params.mainMenu]]
+    link = "https://faultycat.com.au"
+    text = "production"
 
-# [[menu.main]]
-#     url = "/research/"
-#     name = "Research"
-#     weight = 6
+[[params.mainMenu]]
+    link = "about"
+    text = "who is vincent?"
 
-[[menu.main]]
-    url = "https://faultycat.com.au"
-    name = "Production"
-    weight = 7
-
-[[menu.main]]
-    url = "/curiosity/"
-    name = "Curiosities"
-    weight = 8
-
-[[menu.main]]
-    url = "/pleebland/"
-    name = "Pleebland"
-    weight = 9
-
-[[menu.main]]
-    url = "https://fcpvg.work"
-    name = "Writing/Blog"
-    weight = 10
-
-# [[menu.main]]
-#     url = "https://fcpvg.work"
-#     name = "Writing"
-#     weight = 11
-# Social icons to be shown on the right-hand side of the navigation bar
-# The "name" field should match the name of the icon to be used
-# The list of available icons can be found at http://fontawesome.io/icons/
-
-[[menu.icon]]
-    url = "mailto:vin@vgiles.net"
-    name = "envelope-o"
-    weight = 1
-
-[[menu.icon]]
-    url = "https://fcpvg.work"
-    name = "pencil-square"
-    weight = 2
-
-[[menu.icon]]
-    url = "https://soundcloud.com/vince-giles"
-    name = "soundcloud"
-    weight = 3
-
-[[menu.icon]]
-    url = "https://vincentgiles.bandcamp.com"
-    name = "bandcamp"
-    weight = 4
-
-[[menu.icon]]
-    url = "https://www.instagram.com/composervince"
-    name = "instagram"
-    weight = 5
-
-[[menu.icon]]
-    url = "https://www.youtube.com/channel/UCetK4sSbDcRIc8_xTSyHv6Q"
-    name = "youtube"
-    weight = 6
-
-[[menu.icon]]
-    url = "https://www.youtube.com/channel/UCKQY58ILQCvmDcJupHeKS7w"
-    name = "youtube-square"
-    weight = 7
+[imaging]
+    quality = 75
