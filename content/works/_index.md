@@ -4,11 +4,41 @@ date: 2019-06-06
 type: "new"
 layout: "single"
 ---
-This page contains a list of works arranged by instrumentation. If the score is not linked herein, please contact me to obtain by clicking the envelope at top right. This list is not exhaustive, in that there are many sketches, demos, durational projects without major public outcome, jazz-based works, works pre-2009, and works for popular music contexts, that I have not included here. 
+This page contains a list of works by loose category. If the score is unavailable and you would like to get a copy, please [email me](/contact)
 
-### Solo
+- [Solo](#solo)
+  - [Voice](#voice)
+  - [Flute](#flute)
+  - [Piano](#piano)
+  - [Violin](#violin)
+  - [Woodwind (open)](#woodwind-open)
+- [Duo](#duo)
+  - [Flute and Clarinet](#flute-and-clarinet)
+  - [Flute and Piano](#flute-and-piano)
+  - [Flute and Guitar](#flute-and-guitar)
+  - [Flute and Live Electronics](#flute-and-live-electronics)
+  - [Clarinet and Piano](#clarinet-and-piano)
+  - [Saxophones (soprano and alto)](#saxophones-soprano-and-alto)
+  - [Violin and Live Electronics](#violin-and-live-electronics)
+  - [Voice and Piano](#voice-and-piano)
+- [Trio](#trio)
+  - [Piano, flute, clarinet](#piano-flute-clarinet)
+  - [Piano, accordion, violin](#piano-accordion-violin)
+- [Quartet](#quartet)
+  - [Flute quartet](#flute-quartet)
+  - [Flute, clarinet, violin, cello](#flute-clarinet-violin-cello)
+  - [Guitar (or baroque guitar), flute (or traverso), violin (or baroque violin), cello (or 7-string bass viola da gamba)](#guitar-or-baroque-guitar-flute-or-traverso-violin-or-baroque-violin-cello-or-7-string-bass-viola-da-gamba)
+  - [Flute Ensemble](#flute-ensemble)
+- [\> 4 players](#-4-players)
+  - [Flute, clarinet, french horn, violin, cello, piano, percussion](#flute-clarinet-french-horn-violin-cello-piano-percussion)
+  - [Flute quartet + percussion](#flute-quartet--percussion)
+- [Open Instrumentation](#open-instrumentation)
+  - [Threads: Algorithmic Compositions for Humans (2014+):](#threads-algorithmic-compositions-for-humans-2014)
+- [Electroacoustic](#electroacoustic)
+- [Installation](#installation)
 
-#### Voice
+# Solo
+## Voice
 
 _Mesostics [2019-]_, solo voice. Dur: variable (currently six works).   
 [Score](/scores/mesostics-vol1.pdf)
@@ -16,7 +46,7 @@ _Mesostics [2019-]_, solo voice. Dur: variable (currently six works).
 _How ought one live? [2019]_, solo voice (or with electronics). Dur: variable.  
 [Score/Interactive](/projects/text/2/)
 
-#### Flute
+## Flute
 
 _Differing Dialogues [2009/11]_, bass flute with CD. For Peter Sheridan. Dur: c. 4'40".     
 [Score][8] | [Recording][9]
@@ -27,13 +57,13 @@ _Etude Microscopique [2010],_ solo bass flute. For Alice Bennett. Dur: c. 4'00".
 _a process, delicate and violent [2017]_, solo alto flute. Commissioned and for Eric Lamb. Dur: 9'00".  
 [Score](https://www.australianmusiccentre.com.au/workversion/giles-vincent-process-delicate-and-violent/32979)
 
-#### Piano
+## Piano
 
 _Six Figures Signifying Decay [2022]_. Piano with electronics (non-performed). Dur: c. 6'.
 Please contact for electronics. Premiered by Brieley Cutting at the Australian Institute of Music, 2022.
 [Score](/scores/sf-06.pdf)
 
-#### Violin
+## Violin
 
 _silver as catalyst in organic reactions [2014-16]_, baroque violin. For Lizzy Welsh. Dur: c. 6'00".     
 Score: editing/revising for publication. Please email me.
@@ -41,7 +71,7 @@ Score: editing/revising for publication. Please email me.
 _Feeder [2016-17]_, any treble instrument. Dur: any. Dedicated to [Alice Bennett][11].   
 [Score (Max Patch)][12] Please email me about performing this as it is not yet premiered.
 
-#### Woodwind (open)
+## Woodwind (open)
 
 _It needs a big 'ow' sound; 'ow-nd'… ground! [2015-16],_ any low woodwind. Dur: c. 9'00".     
 Score: editing for publication. Please email me.
@@ -49,24 +79,24 @@ Score: editing for publication. Please email me.
 _Feeder [2016-17]_, any treble instrument. Dur: any. Dedicated to [Alice Bennett][11].    
 [Score (Max Patch)][12] Please email me about performing this as it is not yet premiered.
 
-### Duo
+# Duo
 
-#### Flute and Clarinet
+## Flute and Clarinet
 
 _Abandoned Space: A Portrait in Miniature [2013]_ Dur: 0'30".     
 [Score][13] | [Recording][14] (dissonArt ensemble)
 
-#### Flute and Piano
+## Flute and Piano
 
 _Agitation [2014]_, Dur: 1'00".   
 [Score][15]
 
-#### Flute and Guitar
+## Flute and Guitar
 
 _Journeys [2010]_ Dur: 2'30".     
 [Score][16]
 
-#### Flute and Live Electronics
+## Flute and Live Electronics
 
 _Duet [2011]_ Dur: c.4'40". 
 [Score][17]
@@ -77,29 +107,29 @@ _Dead Dirt [2015]_ (structured improvisation). Dur: between 5' and 30'.
 _A Moment on Cowrie Street [2016]_ (structured improvisation). Dur: c. 20'. 
 [Score][19] / please contact via email.
 
-#### Clarinet and Piano
+## Clarinet and Piano
 
 _The garden of rotten integer relationships [2013]._ Dur: c. 1'30".  
 [Score][20]
 
-#### Saxophones (soprano and alto)
+## Saxophones (soprano and alto)
 
 _The 65th Day [2016]._ Commissioned by Halfsound. Dur: c. 9'40".     
 Score: currently being edited for publication, please contact.
 
-#### Violin and Live Electronics
+## Violin and Live Electronics
 
 _End to Reattain [2016]_ (structured improvisation). Dur: 20'.    
 [Score][21] | [Recording][22] (Giles/Welsh)
 
-#### Voice and Piano
+## Voice and Piano
 _The Moth and the Flame [2023]_. Dur: 9'. 
 Under revision, please contact. 
 Premiered at Newcastle Fringe Festival 2023 by Fragments Ensemble with Mark Oliveiro. 
 
-### Trio
+# Trio
 
-#### Piano, flute, clarinet
+## Piano, flute, clarinet
 
 _The Gesture of Relationships and the Relationships of Gesture [2012-14]._ For Alice Bennett. Dur: c. 12'.    
 Score: please email. Includes extractable duets: Agitation, Abandoned Space, The garden of rotten integer relationships
@@ -107,29 +137,29 @@ Score: please email. Includes extractable duets: Agitation, Abandoned Space, The
 _A Semblance of a Whole (a) [2015]_. For Ochre Trio. Dur: c. 12'.     
 [Score][24] (note: requires additional electronic component for audio score, please email)
 
-#### Piano, accordion, violin
+## Piano, accordion, violin
 
 _The Confession of Dr Faust [2012]_. Dur: c. 7'.      
 [Score][23]
 
-### Quartet
+# Quartet
 
-#### Flute quartet
+## Flute quartet
 
 _Staatiline Maastik [2011]._ Dur: c. 5'  
 [Score][25]
 
-#### Flute, clarinet, violin, cello
+## Flute, clarinet, violin, cello
 
 _Four Suits of Thirteen [2011]._ Dur: c. 9'.      
 [Score][30]
 
-#### Guitar (or baroque guitar), flute (or traverso), violin (or baroque violin), cello (or 7-string bass viola da gamba)
+## Guitar (or baroque guitar), flute (or traverso), violin (or baroque violin), cello (or 7-string bass viola da gamba)
 
 _... of sediment...[2017]._ Dur: 11'15".      
 [Score][31]
 
-#### Flute Ensemble
+## Flute Ensemble
 
 _Fragments [2010]._ Dur: c. 6'30".  
 [Score][27] | [Recording][28]
@@ -137,19 +167,19 @@ _Fragments [2010]._ Dur: c. 6'30".
 _Fantasie Australis [2011]._ Dur: c. 4'00".   
 [Score][29] | [Recording][28]
 
-### > 4 players
+# > 4 players
 
-#### Flute, clarinet, french horn, violin, cello, piano, percussion
+## Flute, clarinet, french horn, violin, cello, piano, percussion
 
 _A Glimmer of Foresight [2012]._ Dur: c. 7'30".   
 [Score][32]
 
-#### Flute quartet + percussion
+## Flute quartet + percussion
 
 _… In Dialogue… [2013]._ Dur: 4'40".      
 [Score][26] (arrangement of _Differing Dialogues_)
 
-### Open Instrumentation
+# Open Instrumentation
 
 _Vignette #1 [2018]._ Dur: any. 
 [Web-based score](https://vgiles.github.io/projects/vignettes/1/)
@@ -166,13 +196,13 @@ _Situation(s) [2014]_. Dur: any.
 _Feeder [2016-17]_, any treble instrument. Dur: any. Dedicated to [Alice Bennett][11].    
 [Score (Max Patch)][12] Please email me about performing this as it is not yet premiered.
 
-#### Threads: Algorithmic Compositions for Humans (2014+):
+## Threads: Algorithmic Compositions for Humans (2014+):
 
 Improvisational contexts for various ensemble/solo configurations. Ongoing work exploring the potentials of algorithmic/mathematical structures and descriptions as a basis for structured improvisation. Provided below is the syntax as a work in progress, and the current state of the pieces. Renamed from "Logarithm" to "Thread" in 2020.
 
 [Score](/scores/thread-master-typesetting.pdf) | [Thread 1](/scores/threads/thread1.pdf) | [Thread 2](/scores/threads/thread2.pdf) | [Thread 3](/scores/threads/thread3.pdf) | [Thread 4](/scores/threads/thread4.pdf) | [Thread 5](/scores/threads/thread5.pdf) | [Thread 6](/scores/threads/thread2.pdf) | [Old Syntax Notes](/scores/threads-2014-16.pdf)
 
-### Electroacoustic
+# Electroacoustic
 
 _vgst1 [2019]_, fixed media. Dur: 7'13".        
 [Recording](https://wfls.bandcamp.com/album/no-20-winter-2019)
@@ -207,7 +237,7 @@ _Blank:22k [2015]_, no-input-mixer and live-patching. Collaboration with David J
 _A Semblance of a Whole (B) [2015]_, fixed media. Dur: 12'. 
 Electroacoustic-only version of the same titled instrumental composition. 
 
-### Installation
+# Installation
 
 _16 Perspectives [2018]_, eight-channel (4x space, 2x stereo headphone). Dur: 78'33".      
 Commissioned by Banyule City Council for Hatch Contemporary Art Space. 

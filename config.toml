@@ -12,7 +12,7 @@ pygmentsCodefences       = true
 [params]
     dateform             = "Mon Jan 02, 2006"
     dateformfull         = "Mon Jan 2 2006 15:04:05 EST"
-    favicon              = "vg.ico"
+    favicon              = "favicon.ico"
     homepage             = "home"                           # What to call the home page link, link will not be rendered if empty
     footerText           = "Copyright 2024 Vincent Giles :: Powered by Hugo, theme 'Call me Sam' by Victoria Drake"
 
