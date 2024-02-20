@@ -53,3 +53,8 @@ pygmentsCodefences       = true
 
 [imaging]
     quality = 75
+
+[sitemap]
+  changeFreq = 'weekly'
+  filename = 'sitemap.xml'
+  priority = -1
