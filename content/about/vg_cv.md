@@ -149,18 +149,18 @@ Melbourne Conservatorium of Music Graduate Research Symposium.
 
 # Education
 
-[PhD]#in Sound Design, School of Performing Arts, VCA,
+[PhD] in Sound Design, School of Performing Arts, VCA,
 University of Melbourne.
-[BMus Hons]#in Music Composition, Sir Zelman Cowen School of
+[BMus Hons] in Music Composition, Sir Zelman Cowen School of
 Music, Monash University.
 
 # Professional Development and Additional Training 
 
-[Art in Public Places]{.smallcaps}, Banyule City Council/Fiona Hillary
+[Art in Public Places] Banyule City Council/Fiona Hillary
 (RMIT).
-[IMPULS International Ensemble and Composers Academy]{.smallcaps}, Graz,
+[IMPULS International Ensemble and Composers Academy], Graz,
 Austria.
-[IMPULS International Ensemble and Composers Academy]{.smallcaps}, Graz,
+[IMPULS International Ensemble and Composers Academy], Graz,
 Austria.
 
 # Grants, scholarships, awards, & commissions 
