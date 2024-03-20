@@ -19,7 +19,7 @@ Vincent's notated work is published by Wirripang Australia and the Australian Mu
 <!-- Vincent Giles (Melbourne, 1985) is active in composition, improvisation, and installation art, and is informed by the physical properties of sound, experimental music, and technology. Vincent's work explores the boundaries of perception and performance, with particular focus on microsound and human or machine errors. Current projects include a long work for solo classical guitar, an installation piece that tracks skeleton movement with a phone camera, and developing a live-coding practice.
 Recently completed projects include *The Moth and the Flame* for piano and voice, staged at Newcastle Fringe Festival in 2023 and *six figures signifying decay* for piano and electronics staged at Sydney Fringe Festival 2023. Vincent's notated work is published by Wirripang Australia and the Australian Music Centre, and has been recorded for Move Records. He co-founded and co-directed the Tilde New Music Festival and Academy since 2013, and currently serves on the executive committee of the Australasian Computer Music Association. -->
 
-[Click here for a poorly formatted CV](/about/vg_cv/)
+[Click here for a CV](/about/vg_cv/) or [email me for something more up-to-date](mailto:vin[@]vgiles.net) (note you will need to remove the square braces)
 
 ![Notation Hero Image](/assets/img/hero-draft-transparent-emb.png)
 
