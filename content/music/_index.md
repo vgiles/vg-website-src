@@ -165,13 +165,13 @@ _Vignette #1 [2018]._ Dur: any.
 [Web-based score](https://vgiles.github.io/projects/vignettes/1/)
 
 _6:12:18 [Dream] [2014]._ Dur: any.   
-[Score](https://www.vgiles.net/wp-content/uploads/2013/06/6-12-18dream-fullscore.pdf)
+[Score](https://www.vgiles.net/scores/6-12-18dream-fullscore.pdf)
 
 _Mozart Variations [2013]._ Dur: any.     
 [Score](https://www.australiancomposers.com.au/collections/composers-and-authors/products/mozart-variations)
 
 _Situation(s) [2014]_. Dur: any.      
-[Score](https://www.vgiles.net/wp-content/uploads/2013/06/Situations.pdf)
+[Score](https://www.vgiles.net/scores/Situation[s].pdf)
 
 _Feeder [2016-17]_, any treble instrument. Dur: any. Dedicated to [Alice Bennett][11].    
 [Score (Max Patch)][12] Please email me about performing this as it is not yet premiered.
