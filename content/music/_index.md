@@ -216,20 +216,24 @@ _Blank:22k [2015]_, no-input-mixer and live-patching. Collaboration with David J
 
 _A Semblance of a Whole (B) [2015]_, fixed media. Dur: 12'. 
 Electroacoustic-only version of the same titled instrumental composition. 
+[Recording](https://soundcloud.com/vince-giles/a-semblance-of-a-wholeb)
 
 # Installation
 
 _16 Perspectives [2018]_, eight-channel (4x space, 2x stereo headphone). Dur: 78'33".      
 Commissioned by Banyule City Council for Hatch Contemporary Art Space. 
+[Recording of Perspective 2, Excerpt](https://soundcloud.com/vince-giles/16-perspectives-perspective-2-excerpt)
 
 _Post Hoc Ergo Propter Hoc [2016]_, stereo installation. Dur: 73'.    
 For Love/City III festival, 2016. 
 
 _Bits & Pieces [2016]_, site-specific smartphone installation. Dur: 7'40".   
 Commissioned by Melbourne Fringe Festival, for Auction Rooms cafe, 2016. 
+[Recording](https://soundcloud.com/vince-giles/i-bits-pieces-1)
 
 _Put Together to Present [2016]_, site-specific smartphone installation. Dur: 17'24".      
 Commissioned by Melbourne Fringe Festival, for Auction Rooms cafe, 2016.
+[Recording](https://soundcloud.com/vince-giles/ii-put-together-to-create)
 
 _Let Me Count The Ways [2014]_, fixed-media for surface-exciting speakers. Dur: 18'.        
 Commissioned by the University of Melbourne for Julia St Creative Space, Portland, VIC, 2014, while artist-in-residence. Part of the larger [project of the same name](https://rogeralsop.wixsite.com/counting-the-ways)
