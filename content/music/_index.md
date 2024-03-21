@@ -9,33 +9,11 @@ This page contains a list of works by loose category. If the score is unavailabl
 I am available for commissions and collaboration, why not [get in touch?](/contact)
 
 - [Solo](#solo)
-  - [Voice](#voice)
-  - [Flute](#flute)
-  - [Piano](#piano)
-  - [Violin](#violin)
-  - [Woodwind (open)](#woodwind-open)
 - [Duo](#duo)
-  - [Flute and Clarinet](#flute-and-clarinet)
-  - [Flute and Piano](#flute-and-piano)
-  - [Flute and Guitar](#flute-and-guitar)
-  - [Flute and Live Electronics](#flute-and-live-electronics)
-  - [Clarinet and Piano](#clarinet-and-piano)
-  - [Saxophones (soprano and alto)](#saxophones-soprano-and-alto)
-  - [Violin and Live Electronics](#violin-and-live-electronics)
-  - [Voice and Piano](#voice-and-piano)
 - [Trio](#trio)
-  - [Piano, flute, clarinet](#piano-flute-clarinet)
-  - [Piano, accordion, violin](#piano-accordion-violin)
 - [Quartet](#quartet)
-  - [Flute quartet](#flute-quartet)
-  - [Flute, clarinet, violin, cello](#flute-clarinet-violin-cello)
-  - [Guitar (or baroque guitar), flute (or traverso), violin (or baroque violin), cello (or 7-string bass viola da gamba)](#guitar-or-baroque-guitar-flute-or-traverso-violin-or-baroque-violin-cello-or-7-string-bass-viola-da-gamba)
-  - [Flute Ensemble](#flute-ensemble)
 - [\> 4 players](#-4-players)
-  - [Flute, clarinet, french horn, violin, cello, piano, percussion](#flute-clarinet-french-horn-violin-cello-piano-percussion)
-  - [Flute quartet + percussion](#flute-quartet--percussion)
 - [Open Instrumentation](#open-instrumentation)
-  - [Threads: Algorithmic Compositions for Humans (2014+):](#threads-algorithmic-compositions-for-humans-2014)
 - [Electroacoustic](#electroacoustic)
 - [Installation](#installation)
 
@@ -51,7 +29,7 @@ _How ought one live? [2019]_, solo voice (or with electronics). Dur: variable.
 ## Flute
 
 _Differing Dialogues [2009/11]_, bass flute with CD. For Peter Sheridan. Dur: c. 4'40".     
-[Score][8] | [Recording][9]
+[Score](https://www.australiancomposers.com.au/collections/composers-and-authors/products/differing-dialogues) | [Recording](http://www.move.com.au/disc/peter-sheridan-monologues-dialogues)
 
 _Etude Microscopique [2010],_ solo bass flute. For Alice Bennett. Dur: c. 4'00".    
 [Score][10]
@@ -76,7 +54,7 @@ _Feeder [2016-17]_, any treble instrument. Dur: any. Dedicated to [Alice Bennett
 ## Woodwind (open)
 
 _It needs a big 'ow' sound; 'ow-nd'… ground! [2015-16],_ any low woodwind. Dur: c. 9'00".     
-Score: editing for publication. Please email me.
+[Score](https://www.australiancomposers.com.au/collections/composers-and-authors/products/it-needs-a-big-ow-sound-ow-nd-ground)
 
 _Feeder [2016-17]_, any treble instrument. Dur: any. Dedicated to [Alice Bennett][11].    
 [Score (Max Patch)][12] Please email me about performing this as it is not yet premiered.
@@ -264,36 +242,36 @@ _Heard/Unheard:Flux [2013]_, fixed-media four speakers in an outdoor space. Dur:
 Commissioned by the University of Melbourne in partnership with the Portland Upwelling Festival, 2013. Developed while artist-in-residence at the festival.
 
 _Winter [2012]_, fixed-media (federation bells, Birrarung Marr). Dur: 5'30".
-
+[Recording (mockup)](https://soundcloud.com/vince-giles/winter-2012)
 ** **
 
-[8]: http://wirripang.com.au/authors/vincent-giles/differing-dialogues-score
-[9]: http://www.move.com.au/disc/peter-sheridan-monologues-dialogues
-[10]: http://wirripang.com.au/authors/vincent-giles/etude-microscopique-score-1
-[11]: http://www.alicebennett.net
+[8]: https://wirripang.com.au/authors/vincent-giles/differing-dialogues-score
+[9]: 
+[10]: https://www.australiancomposers.com.au/collections/composers-and-authors/products/etude-microscopique
+[11]: https://www.alicebennett.net
 [12]: https://github.com/vgiles/feeder
-[13]: http://www.australianmusiccentre.com.au/workversion/giles-vincent-abandoned-space/30433
+[13]: https://www.australianmusiccentre.com.au/workversion/giles-vincent-abandoned-space/30433
 [14]: https://soundcloud.com/vince-giles/abandoned-space-a-portrait-in
-[15]: http://www.australianmusiccentre.com.au/workversion/giles-vincent-agitation/30434
-[16]: http://wirripang.com.au/authors/vincent-giles/journeys-score
-[17]: http://wirripang.com.au/authors/vincent-giles/duet-score-and-part
-[18]: http://www.australianmusiccentre.com.au/workversion/giles-vincent-dead-dirt/30476
-[19]: http://www.australianmusiccentre.com.au/workversion/giles-vincent-moment-on-cowrie-street/31613
-[20]: http://www.australianmusiccentre.com.au/workversion/giles-vincent-garden-of-rotten-integer-relationships/30435
-[21]: http://www.australianmusiccentre.com.au/workversion/giles-vincent-end-to-reattain/30760
+[15]: https://www.australianmusiccentre.com.au/workversion/giles-vincent-agitation/30434
+[16]: https://www.australiancomposers.com.au/collections/composers-and-authors/products/journeys
+[17]: https://www.australiancomposers.com.au/collections/composers-and-authors/products/duet
+[18]: https://www.australianmusiccentre.com.au/workversion/giles-vincent-dead-dirt/30476
+[19]: https://www.australianmusiccentre.com.au/workversion/giles-vincent-moment-on-cowrie-street/31613
+[20]: https://www.australianmusiccentre.com.au/workversion/giles-vincent-garden-of-rotten-integer-relationships/30435
+[21]: https://www.australianmusiccentre.com.au/workversion/giles-vincent-end-to-reattain/30760
 [22]: https://soundcloud.com/vince-giles/gileswelsh-end-to-reattain
-[23]: http://wirripang.com.au/authors/vincent-giles/confession-of-dr-faust-the-score-and-parts
-[24]: http://www.australianmusiccentre.com.au/workversion/giles-vincent-semblance-of-a-whole/30664
-[25]: http://wirripang.com.au/authors/vincent-giles/staatiline-maastik-score-and-parts
-[26]: http://wirripang.com.au/authors/vincent-giles/in-dialogue-score-and-parts
-[27]: http://wirripang.com.au/authors/vincent-giles/fragments-score-and-parts
-[28]: http://www.move.com.au/disc/fantasie-australis
-[29]: http://wirripang.com.au/authors/vincent-giles/fantasie-australis-score
-[30]: http://wirripang.com.au/authors/vincent-giles/four-suits-of-thirteen-score-and-parts
-[31]: http://www.australianmusiccentre.com.au/workversion/giles-vincent-of-sediment-1/32068
-[32]: http://wirripang.com.au/authors/vincent-giles/glimmer-of-foresight-a-score-and-parts
-[33]: http://www.vgiles.net/wp-content/uploads/2013/06/6-12-18dream-fullscore.pdf
-[34]: http://wirripang.com.au/authors/vincent-giles/mozart-variations-score
-[35]: http://www.vgiles.net/wp-content/uploads/2013/06/Situations.pdf
+[23]: https://www.australiancomposers.com.au/collections/composers-and-authors/products/confession-of-dr-faust-the
+[24]: https://www.australianmusiccentre.com.au/workversion/giles-vincent-semblance-of-a-whole/30664
+[25]: https://www.australiancomposers.com.au/collections/composers-and-authors/products/staatiline-maastik
+[26]: https://www.australiancomposers.com.au/collections/composers-and-authors/products/in-dialogue
+[27]: https://www.australiancomposers.com.au/collections/composers-and-authors/products/fragments
+[28]: https://www.move.com.au/disc/fantasie-australis
+[29]: https://www.australiancomposers.com.au/collections/composers-and-authors/products/fantasie-australis
+[30]: https://www.australiancomposers.com.au/collections/composers-and-authors/products/four-suits-of-thirteen
+[31]: https://www.australianmusiccentre.com.au/workversion/giles-vincent-of-sediment-1/32068
+[32]: https://www.australiancomposers.com.au/collections/composers-and-authors/products/glimmer-of-foresight-a
+[33]: https://www.vgiles.net/wp-content/uploads/2013/06/6-12-18dream-fullscore.pdf
+[34]: https://www.australiancomposers.com.au/collections/composers-and-authors/products/mozart-variations
+[35]: https://www.vgiles.net/wp-content/uploads/2013/06/Situations.pdf
 
   
