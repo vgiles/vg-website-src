@@ -9,7 +9,7 @@ Photo by Emily Churchill - click image for high resolution
 
 # Biography
 
-Vincent Giles (Melbourne, 1985) is an Australian composer based in Naarm (Melbourne). His music explores the boundaries of perception, instability, and the glitches produced by both humans and machines. 
+Vincent Giles (*1985) is an Australian composer based in Naarm (Melbourne). His music explores the boundaries of perception, instability, and the glitches produced by both humans and machines. 
 
 ---
 
