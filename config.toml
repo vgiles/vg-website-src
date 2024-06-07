@@ -48,6 +48,10 @@ pygmentsCodefences       = true
     text = "writing"
 
 [[params.mainMenu]]
+    link = "https://edition-resonance.xyz"
+    text = "publishing"
+
+[[params.mainMenu]]
     link = "contact"
     text = "contact/social"
 

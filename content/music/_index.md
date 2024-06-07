@@ -46,7 +46,7 @@ Please contact for electronics. Premiered by Brieley Cutting at the Australian I
 ## Violin
 
 _silver as catalyst in organic reactions [2014-16]_, baroque violin. For Lizzy Welsh. Dur: c. 6'00".     
-Score: editing/revising for publication. Please email me.
+[Score](https://www.edition-resonance.xyz/publications/scores)
 
 _Feeder [2016-17]_, any treble instrument. Dur: any. Dedicated to [Alice Bennett](https://www.alicebennett.net).   
 Please email me about performing this as it is not yet premiered.
