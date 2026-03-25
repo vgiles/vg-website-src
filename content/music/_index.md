@@ -43,6 +43,10 @@ _Six Figures Signifying Decay [2022]_. Piano with electronics (non-performed). D
 Please contact for electronics. Premiered by Brieley Cutting at the Australian Institute of Music, 2022.
 [Score](/scores/sf-06.pdf)
 
+_orr net [2025]_. Solo piano. Dur c. 8-9'.
+Premiere performance October 2025 by Gene Cleary at the Church of All Nations, Carlton, Melbourne. 
+[Score](https://edition-resonance.xyz/b/0Tjsk)
+
 ## Violin
 
 _silver as catalyst in organic reactions [2014-16]_, baroque violin. For Lizzy Welsh. Dur: c. 6'00".     
